@@ -19,11 +19,11 @@ The sandwich at the conference was good, served on time. But just a lack of vari
 <strong>DevOptics</strong><br>
 Cloudbees brought up and highlighted the concept of DevOptics. It was highlighted in opening keynote, and brought up again as one session from CloudBee's CTO. As to me, they are trying to orchestrate DevOps with DevOptics, which I am looking forward to. (At least the demo looks good, )
 
--A series of products are coming up around it.
--It is really not just about Jenkins, but rather about the whole flow of DevOps. One example: there was one demo on how jira tickets flow through different modules as pipelines run, which was really cool.
--It gives you more about how different modules/parts perform in pipelines, which could help find bottlenecks in the development process.
--In addition, it has product coming up visualizing metrics on CI/CD pipelines.
--Those products won't be part of Jenkins. They will be separate commercial products. However, it will be able to talk to both open-sourced and commercial version of Jenkins.
+- A series of products are coming up around it.
+- It is really not just about Jenkins, but rather about the whole flow of DevOps. One example: there was one demo on how jira tickets flow through different modules as pipelines run, which was really cool.
+- It gives you more about how different modules/parts perform in pipelines, which could help find bottlenecks in the development process.
+- In addition, it has product coming up visualizing metrics on CI/CD pipelines.
+- Those products won't be part of Jenkins. They will be separate commercial products. However, it will be able to talk to both open-sourced and commercial version of Jenkins.
 
 <strong>Data Model of Jenkins</strong><br>
 data model ? What is it ? in a nutshell, it is a smarter Jenkins. Currently, Jenkins is onlly about users and pipelines/jobs. As referred as data models of Jenkins , they are extending Jenkins to be aware of applications, and teams. So instead of just a whole bunch of standalone pipelines, you can pull together a group of pipelines under application, or team, which show you that those pipelines aggregate to being this application. It looks pretty cool.
@@ -31,16 +31,16 @@ data model ? What is it ? in a nutshell, it is a smarter Jenkins. Currently, Jen
 <strong>Pipeline as Code</strong><br>
 We already doing this within Thoughtspot, which is great!
 
--The trend is moving to source control pipeline considering its multiple benefits.
--Creating shared reusable library.
--Declarative pipelines seems to have been adopted in many places (Mozilla, Github)
+- The trend is moving to source control pipeline considering its multiple benefits.
+- Creating shared reusable library.
+- Declarative pipelines seems to have been adopted in many places (Mozilla, Github)
 
 <strong>Disposable Jenkins</strong><br>
 This is not a new idea, but rather a practice that worth adopting. The idea is that hosting Jenkins server through container, and have all server configurations automatd through scripts. The main benefit is that once server dies, you can one click to bring up server without hours of pain to configure all those plugins.
 
--Automate plugins installations with scripts.
--Automate users sync with some LDAP store.
--backup policy and separate persisten store for jenkins home volume.
+- Automate plugins installations with scripts.
+- Automate users sync with some LDAP store.
+- backup policy and separate persisten store for jenkins home volume.
 
 <strong>Do things right</strong><br>
 As from Cloudbees' consulting experience, there is a strong message that getting any organization, large or small, through cultural or technological barries to a good state of CI/CD is exponentally hard. However, doings things right, and following best practices can often achieve that linearly. There was one session around best practices from CloudBees' CTO, which was pretty cool in demonstrating the importance of following best practices.
@@ -57,10 +57,10 @@ RedHat introduced their openShift for microservices development (it supports K8s
 <strong>How to enable cross-component branch commits with dependency relations</strong><br>
 Simples way is dont allow dependency relations on commits across component branches . However, if there have to be relations, there is a way to make those commits go through qualifying pipelines smoothly.
 
--Build a topological dependency relations between commits
--Do incremental build from those independent commits by following the topological relations
--Use built artifacts for dependent commits
--If there is circular dependent relations, break commits into subsets, do the same thing.
+- Build a topological dependency relations between commits
+- Do incremental build from those independent commits by following the topological relations
+- Use built artifacts for dependent commits
+- If there is circular dependent relations, break commits into subsets, do the same thing.
 
 In the last, grand appreciation for my current employer's sponsorship of the conference ticket. 
 

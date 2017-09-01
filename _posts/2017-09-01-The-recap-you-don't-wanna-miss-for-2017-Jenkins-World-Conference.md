@@ -44,21 +44,24 @@ This is not a new idea, but rather a practice that worth adopting. The idea is t
 As from Cloudbees' consulting experience, there is a strong message that getting any organization, large or small, through cultural or technological barries to a good state of CI/CD is exponentally hard. However, doings things right, and following best practices can often achieve that linearly. There was one session around best practices from CloudBees' CTO, which was pretty cool in demonstrating the importance of following best practices.
 
 <strong>Right Metrics</strong><br>
-Having a right metrics to measure CI/CD. A bad examplge: using number of builds currently happening on server to measure the goodness of CI/CD. There is a product withing DevOptics from CloudBees on metrics coming up.
+Having a right metrics to measure CI/CD. A bad examplge: using number of builds currently happening on server to measure the goodness of CI/CD. There is a product within DevOptics from CloudBees on metrics coming up.
 
 <strong>Disasterproof Jenkins infrastructure</strong><br>
 There was an session on this, and it was around AWS and container. The idea is to reduce the chance of pipelines failure from infrastructure issue.
 
 <strong>Microservices with OpenShift from RedHat</strong><br>
 RedHat introduced their openShift for microservices development (it supports K8s for container orchestration). It could be a great platform for microservices development.
+![2017 Jenkins World](/images/openshift-banner.jpg)
 
 <strong>How to enable cross-component branch commits with dependency relations</strong><br>
 Simples way is dont allow dependency relations on commits across component branches . However, if there have to be relations, there is a way to make those commits go through qualifying pipelines smoothly.
+![cross component commits with dependency](/images/cross-component-commits-with-dependency.jpg)
 
 - Build a topological dependency relations between commits
 - Do incremental build from those independent commits by following the topological relations
 - Use built artifacts for dependent commits
 - If there is circular dependent relations, break commits into subsets, do the same thing.
+![topological dependency build](/images/topological-incremental-build.jpg)
 
 In the last, grand appreciation for my current employer's sponsorship of the conference ticket. 
 

@@ -2,7 +2,6 @@
 layout: "post"
 title: "The Recap you don't wanna miss for 2017 Jenkins World"
 date:   2017-09-01 12:40:01 -0600
-categories: Conference
 ---
 ![2017 Jenkins World](/images/jenkins-world-banner.jpg)
 (Image credit @Cloudbees)  

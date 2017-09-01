@@ -9,9 +9,10 @@ I made a slack post within my current company(<a href="http://www.thoughtspot.co
 
 It was really fun, and energetic two days in the city. Tiring as well , but the swag was good: I got a number of free t-shirts and stickers. So following are some highlights from my point of view for 2017 Jenkins World.
 
-<strong>Sandwich</strong>
+<strong>Sandwich</strong><br>
 The sandwich at the conference was good, served on time. But just a lack of variety. Overall, 4.6 star @CloudBees #DiversityOfSandwich.
-<strong>DevOptics</strong>
+
+<strong>DevOptics</strong><br>
 Cloudbees brought up and highlighted the concept of DevOptics. It was highlighted in opening keynote, and brought up again as one session from CloudBee's CTO. As to me, they are trying to orchestrate DevOps with DevOptics, which I am looking forward to. (At least the demo looks good, )
 *A series of products are coming up around it.
 *It is really not just about Jenkins, but rather about the whole flow of DevOps. One example: there was one demo on how jira tickets flow through different modules as pipelines run, which was really cool.

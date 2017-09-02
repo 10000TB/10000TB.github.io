@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Recap you don't wanna miss for 2017 Jenkins World"
+title: "The recap you don't wanna miss for 2017 Jenkins World"
 ---
 ![2017 Jenkins World](/images/jenkins-world-banner.jpg)
 (Image credit @Cloudbees)  

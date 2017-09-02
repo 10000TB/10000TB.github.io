@@ -9,8 +9,16 @@ permalink: /about/
 	<span style="width:80px;height:30px;background-color:rgba(74,144,226,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="https://www.linkedin.com/in/xuehaohu">LinkedIn</a>&nbsp;&nbsp;https://www.linkedin.com/in/xuehaohu</span>
 	<span style="width:80px;height:30px;background-color:rgba(0,0,0,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="https://github.com/10000TB">GitHub</a>&nbsp;&nbsp;https://github.com/10000TB</span>
 	<span style="width:80px;height:30px;background-color:rgba(245,166,35,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="mailto:xuehao.hu@gmail.com?Subject=Hello%20again">Email:</a>&nbsp;&nbsp;xuehao[DOT]hu[AT]gmail[DOT]com</span><br/>
-	<span style="width:300px;height:30px;background-color:rgba(238,11,11,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="">Status:</a>&nbsp;&nbsp;Seeking Full-Time SDE Opportunity</span>
+	<span style="width:300px;height:30px;background-color:rgba(238,11,11,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="">Status:</a>&nbsp;&nbsp;N/A</span>
 </p>
-<p style="margin-top: 15px;position: relative;padding-top: 5px;">Hi, this is Xuehao(学浩). I am currently a CS student as CSU, loving approaching and getting involved into new stuff...This blog has writings about the projects 
-I finished/achieved.Question/critique welcomed, Cheers!
+<p style="margin-top: 15px;position: relative;padding-top: 5px;">Hi, this is Xuehao(学浩). I am currently a SDET at <a href="http://www.thoughtspot.com">Thoughtspot</a>. I love approaching and getting involved into new stuff...This blog has writings about the projects 
+I finished/achieved. Question/critique warmly welcome.
 </p>
+<br>
+<p>A little more about me:</p><br/>
+<p>I received my bachelor of science degree(computer science) from Colorado State University Dec 2016. Go Rams!!</p>
+<img src="/images/graduation-csu-xlarge-pro.jpg" style="width:100%;">
+<p>Pardon me if it is 2 big a picture to show here :). But I do love the gold pajamas!</p><br>
+<p>In April 2017 at las vegas, I did an unforgettable sky-diving from the top of the <a href="https://www.google.com/search?biw=1403&bih=691&q=stratosphere&oq=stratos&gs_l=psy-ab.3.0.0i67k1l2j0i20k1j0.54444.58988.0.61139.13.10.3.0.0.0.99.825.10.10.0..3..0...1.1.64.psy-ab..0.13.832...46j35i39k1j0i46k1.RFlPOtONJNw">Stratosphere tower</a>. I have say it was really really fun and scary! here is what I look like in the sky:
+<img src="/images/vagas-sky-jump-gopro.png" style="width:100%">
+

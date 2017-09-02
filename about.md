@@ -11,8 +11,8 @@ permalink: /about/
 	<span style="width:80px;height:30px;background-color:rgba(245,166,35,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="mailto:xuehao.hu@gmail.com?Subject=Hello%20again">Email:</a>&nbsp;&nbsp;xuehao[DOT]hu[AT]gmail[DOT]com</span><br/>
 	<span style="width:300px;height:30px;background-color:rgba(238,11,11,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="">Status:</a>&nbsp;&nbsp;N/A</span>
 </p>
-<p style="margin-top: 15px;position: relative;padding-top: 5px;">Hi, this is Xuehao(学浩). I am currently a SDET at <a href="http://www.thoughtspot.com">Thoughtspot</a>. I love approaching and getting involved into new stuff...This blog has writings about the projects 
-I finished/achieved. Question/critique warmly welcome.
+<p style="margin-top: 15px;position: relative;padding-top: 5px;">Hi, this is Xuehao(学浩). I am currently a SDET at <a href="http://www.thoughtspot.com">Thoughtspot</a>. I love approaching and getting involved into new stuff...This blog has writings about everything 
+I finished/achieved/just simply want to share. Question/critique warmly welcome.
 </p>
 <p><strong>A little more about me</strong>:</p>
 <p>I received my bachelor of science degree(computer science) from <a href="https://www.colostate.edu/">Colorado State University</a> Dec 2016. Go Rams!!</p>
@@ -20,9 +20,7 @@ I finished/achieved. Question/critique warmly welcome.
 <p>Pardon me if it is 2 big a picture to show here :). But I do love the gold pajamas!</p><br>
 <p>In April 2017 at las vegas, I did an unforgettable sky-diving from the top of the <a href="https://www.google.com/search?biw=1403&bih=691&q=stratosphere&oq=stratos&gs_l=psy-ab.3.0.0i67k1l2j0i20k1j0.54444.58988.0.61139.13.10.3.0.0.0.99.825.10.10.0..3..0...1.1.64.psy-ab..0.13.832...46j35i39k1j0i46k1.RFlPOtONJNw">Stratosphere tower</a>. I have say it was really really fun and scary! here is what I look like in the sky:
 <img src="/images/vagas-sky-jump-gopro.png" style="width:100%">
-<p>Wait a minute, how I can not share the video recorded? so here is the video recorded:</p>
-<video width="400" controls>
-  <source src="/videos/xuehaohu-jumping-part-shorter.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-
+<p>Wait a minute, how can I not share the jumping video recorded? so here is the video recorded and you're welcome:</p>
+  <iframe width="100%"
+  src="https://www.youtube.com/watch?v=MnfGrQ37Ick&feature=youtu.be">
+</iframe>

@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/images/selfie.jpg" style="width: 150px;position: relative;float: left;margin: 10px;">
+<img src="/images/headshot-pro.jpg" style="width: 150px;position: relative;float: left;margin: 10px;">
 <p style="position: relative;"><br/>
 	<span style="width:80px;height:30px;background-color:rgba(0,49,107,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="/files/david-hu-resume.pdf">Resume</a>&nbsp;&nbsp;</span>
 	<span style="width:80px;height:30px;background-color:rgba(74,144,226,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="https://www.linkedin.com/in/xuehaohu">LinkedIn</a>&nbsp;&nbsp;https://www.linkedin.com/in/xuehaohu</span>

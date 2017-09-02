@@ -21,6 +21,4 @@ I finished/achieved/just simply want to share. Question/critique warmly welcome.
 <p>In April 2017 at las vegas, I did an unforgettable sky-diving from the top of the <a href="https://www.google.com/search?biw=1403&bih=691&q=stratosphere&oq=stratos&gs_l=psy-ab.3.0.0i67k1l2j0i20k1j0.54444.58988.0.61139.13.10.3.0.0.0.99.825.10.10.0..3..0...1.1.64.psy-ab..0.13.832...46j35i39k1j0i46k1.RFlPOtONJNw">Stratosphere tower</a>. I have say it was really really fun and scary! here is what I look like in the sky:
 <img src="/images/vagas-sky-jump-gopro.png" style="width:100%">
 <p>Wait a minute, how can I not share the jumping video recorded? so here is the video recorded and you're welcome:</p>
-  <iframe width="100%"
-  src="https://www.youtube.com/watch?v=MnfGrQ37Ick&feature=youtu.be">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MnfGrQ37Ick" frameborder="0" allowfullscreen></iframe>

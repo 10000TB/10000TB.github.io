@@ -2,7 +2,7 @@
 layout: "post"
 title: "A-joke-on-Google-and-a-trick-on-Vim-for-today"
 ---
-![Exitting Vim finally](images/exit-vim.jpg)
+![Exitting Vim finally](images/exit-vim.png)
 (How to exit vim. Image credit: the holy globe of Internet)
 <strong>Warning</strong>: If you don't use Vim/Vi, don't bother reading any more letter.
 

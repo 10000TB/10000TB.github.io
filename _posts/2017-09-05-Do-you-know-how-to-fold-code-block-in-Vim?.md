@@ -5,7 +5,7 @@ title: "A-joke-on-Google-and-a-trick-on-Vim-for-today"
 <strong>Warning</strong>: If you don't use Vim/Vi, don't bother reading any more letter.
 
 Before getting started with text folding in Vim, I would like to tell a joke. :). The joke starts with a question:
-"Is Google male or female?". 
+>"Is Google male or female?". 
 Wdyt? I will reveal the punchline somewhere in this post.
 
 So I really adopted Vim since I joined my current organization, and I have been 

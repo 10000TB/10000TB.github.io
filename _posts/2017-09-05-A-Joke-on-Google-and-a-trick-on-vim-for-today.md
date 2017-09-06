@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "A-joke-on-Google-and-a-trick-on-Vim-for-today"
+title: "A Joke on Google and a trick on vim for today"
 ---
 ![Exitting Vim finally](images/exit-vim.png)
 (How to exit vim. Image credit: the holy globe of Internet)

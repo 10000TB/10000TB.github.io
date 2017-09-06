@@ -3,7 +3,9 @@ layout: "post"
 title: "A Joke on Google and a trick on vim for today"
 ---
 ![Exitting Vim finally](/images/exit-vim.png)
+
 (How to exit vim. Image credit: the holy globe of Internet)
+
 <strong>Warning</strong>: If you don't use Vim/Vi, don't bother reading any more letter.
 
 Before getting started with text folding in Vim, I would like to tell a joke. :). The joke starts with a question:

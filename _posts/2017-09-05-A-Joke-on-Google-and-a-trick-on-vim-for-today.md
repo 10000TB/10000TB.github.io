@@ -2,6 +2,8 @@
 layout: "post"
 title: "A-joke-on-Google-and-a-trick-on-Vim-for-today"
 ---
+![Exitting Vim finally](images/exit-vim.jpg)
+(How to exit vim. Image credit: the holy globe of Internet)
 <strong>Warning</strong>: If you don't use Vim/Vi, don't bother reading any more letter.
 
 Before getting started with text folding in Vim, I would like to tell a joke. :). The joke starts with a question:
@@ -57,7 +59,31 @@ unsolved. If you don't have a visual, here is an example to demonstrate the diff
  }
 ```
 
-Without further due, let me clarify how folding code block can help. It is easy, you see the end 
+Without further due, let me clarify how folding code block can help. It is easy, you see the end when you fold the block. 
+Then you can delete the intermediate function block easily. But then, how do I fold this intermediate block?
 
+After searching, many folding techniques can be achieved natively in Vim, like folding by syntax, indent, folding and unfolding
+ upon current cursor, etc. But the exact thing I wanted to achieve didn't come into my sight as handy. Then I gave up.
+
+Lets take a pause and go back to the puzzle threw at you at the beginning. "Is Google male ot female?", "Female! because it 
+always cant wait to reveal suggestations before you could finish a sentence."
+
+What do you think? 
+
+This is a good one without a second thought. Frankly, I laughed. you probably did as well. When you rethink about it, it is still
+probably ok. However, if you think more about it, you would agree that people can easily argue that this is not a good one, as this
+is against women. It can then become gender inequality, bla bla...
+ 
+The point: it is because I said it was a joke at the beginning, and you easily fall into the hole set up by me. You then enjoyed the 
+punchline as I saied there will be punchline coming up at the beginning. Therefore, you probably didn't doubt the revealed punchline
+ and laughed thereafter.
+
+Similarly, I fell into trying to get the folding work, and ignored other simple ways to achieve what I wanted. Finally, the way it worked 
+is: start from the starting curely bracket, and use `%` in normal mode, which lead you the closing bracket. Then you delete the closing 
+bracket. Then you do `""`, which help you go back to last cursor point. Then you can delete the opening part of the intermediate function.
+
+I would not summarize anything here, and simply ask What do you think?
+
+-10000TB
 
 -10000TB

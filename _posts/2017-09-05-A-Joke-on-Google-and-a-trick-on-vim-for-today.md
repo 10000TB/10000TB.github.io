@@ -87,5 +87,3 @@ bracket. Then you do `""`, which help you go back to last cursor point. Then you
 I would not summarize anything here, and simply ask What do you think?
 
 -10000TB
-
--10000TB

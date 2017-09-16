@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "A Joke on Google and a trick on vim for today"
+comments: true
 ---
 ![Exitting Vim finally](/images/exit-vim.png)
 
@@ -87,3 +88,7 @@ bracket. Then you do `""`, which help you go back to last cursor point. Then you
 I would not summarize anything here, and simply ask What do you think?
 
 -10000TB
+
+{% if page.comments %} 
+{% include comment-plugin.html %}
+{% endif %}

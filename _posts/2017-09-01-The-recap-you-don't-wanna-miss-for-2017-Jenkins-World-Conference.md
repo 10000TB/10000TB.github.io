@@ -70,3 +70,7 @@ Simples way is: don't allow dependency relations on commits across component bra
 In the last, grand appreciation for my current employer's sponsorship of the conference ticket. 
 
 -10000TB
+
+{% if page.comments %} 
+{% include comment-plugin.html %}
+{% endif %}

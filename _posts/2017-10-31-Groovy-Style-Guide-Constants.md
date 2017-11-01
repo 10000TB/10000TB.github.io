@@ -8,13 +8,13 @@ Recently I have been working on finding a way to write a portale Groovy common l
 
 That Groovy Style Guide - Constants
 
-1.** Do things in object oriented way. Remember that it is still a language of Object Orientation.**
+1.<Strong>Do things in object oriented way. Remember that it is still a language of Object Orientation.</Strong>
 
-2.** No simi-colon. Lets do everything in a Groovy way.**
+2.<Strong> No simi-colon. Lets do everything in a Groovy way.</Strong>
 
-3.** Define constants in a separate class for external access. **
+3.<Strong> Define constants in a separate class for external access. </Strong>
 
-4.** Define a class for constant type instead of primitive types when constant need to have other attributes **
+4.<Strong> Define a class for constant type instead of primitive types when constant need to have other attributes </Strong>
 Like: deploymentEnvironment: dev, production, testing. 
 
 Lets take an look at a few examples:

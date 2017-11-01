@@ -7,16 +7,18 @@ comments: true
 Recently I have been working on finding a way to write a portale Groovy common library for Jenkins pipelines at <a href="http://www.thoughtspot.com">ThoughtSpot</a>. By portable, I mean writing common functions/utilities that is pure Groovy without using any Jenkins plugin step. It is clear that we will go for this kind of portable Groovy common lib instead of having any dependency Jenkins Plugins step, which is only useful on Jenkins server. After searching/referencing here and there, I finally had a working version of a pure Groovy lib. But, a problem rose in code review phase : which code style should we adopt for native Groovy code in production ? It is crucial that we should write code in best practice so that it is maintainable in the long run. One heated discussion we had for my first version deliverable is about constants. As we didn't find a solid official guide on how to structure global constants for reference, discussions were subjectively skewed. After I spent some time investigating on it, I found many good articles demonstrating a good way to manage constants. Together with my own understanding, I present you: That Groovy Style Guide - Constants. ('That' here to differentiate this from any official documentation)
 
 That Groovy Style Guide - Constants
+  
+  
+1.<Strong> Do things in object oriented way. Remember that it is still a language of Object Orientation</Strong>
 
-1.<Strong>Do things in object oriented way. Remember that it is still a language of Object Orientation.</Strong>
+2.<Strong> No simi-colon. Lets do everything in a Groovy way</Strong>
 
-2.<Strong> No simi-colon. Lets do everything in a Groovy way.</Strong>
+3.<Strong> Define constants in a separate class for external access</Strong>
 
-3.<Strong> Define constants in a separate class for external access. </Strong>
-
-4.<Strong> Define a class for constant type instead of primitive types when constant need to have other attributes </Strong>
+4.<Strong> Define a class for constant type instead of primitive types when constant need to have other attributes </Strong>  
 Like: deploymentEnvironment: dev, production, testing. 
-
+  
+  
 Lets take an look at a few examples:
 0. You can always define constants local to a file/class and only use them in that file. Skip that here.
 
@@ -67,6 +69,16 @@ Not really! Remember it is still an language of object orientation. whenever you
 3. Comment below if you find any other concern that is not listed.
 
 -10000TB
+
+
+References:
+[Java Tip 67: Lazy instantiation](https://www.javaworld.com/article/2077568/learn-java/java-tip-67--lazy-instantiation.html)
+[Groovy Style Guide](http://groovy-lang.org/style-guide.html)
+[Java Object Size Calculations in 64-bit](http://btoddb-java-sizing.blogspot.com/) 
+[Groovy Object orientation](http://groovy-lang.org/objectorientation.html)
+[Create enumerated constants in Java](https://www.javaworld.com/article/2076970/core-java/create-enumerated-constants-in-java.html)
+[Use constant types for safer and cleaner code](https://www.javaworld.com/article/2076481/learn-java/use-constant-types-for-safer-and-cleaner-code.html)
+
 
 {% if page.comments %} 
 {% include comment-plugin.html %}

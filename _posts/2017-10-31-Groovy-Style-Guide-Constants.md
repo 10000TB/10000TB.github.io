@@ -17,7 +17,10 @@ Lets do everything in a Groovy way
 
 4.<Strong> Define a class for constant type instead of primitive types when constant need to have other attributes </Strong>  
 Like: deploymentEnvironment: dev, production, testing.  
- 
+  
+  
+  
+![esign joke: design gan with dev](/images/design-joke-banner.png) 
   
 Recently I have been working on finding a way to write a portale Groovy common 
 library for Jenkins pipelines at <a href="http://www.thoughtspot.com">ThoughtSpot</a>. 

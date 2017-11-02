@@ -20,7 +20,7 @@ Like: deploymentEnvironment: dev, production, testing.
   
   
   
-![esign joke: design gan with dev](/images/design-joke-banner.png) 
+![esign joke: design gan with dev](/images/design-joke-banner.jpg) 
   
 Recently I have been working on finding a way to write a portale Groovy common 
 library for Jenkins pipelines at <a href="http://www.thoughtspot.com">ThoughtSpot</a>. 

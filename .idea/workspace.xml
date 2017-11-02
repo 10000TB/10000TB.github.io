@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f38c5b-8d11-416e-abc9-5ef4b9b793e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md" afterPath="$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md" afterPath="$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-11-02-Groovy-Style-Guide-Semicolons.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-11-02-Groovy-Style-Guide-Semicolons.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-31-Groovy-Style-Guide-Constants.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-31-Groovy-Style-Guide-Constants.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -74,8 +74,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/2017-09-05-A-Joke-on-Google-and-a-trick-on-vim-for-today.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md" />
       </list>
     </option>
   </component>
@@ -296,22 +296,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />

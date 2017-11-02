@@ -21,8 +21,8 @@ it is more idiomatic to have no semicolons in yout Groovy code.
 In fact, Groovy supports 99% of Java syntax, and it will work in most 
 cases if you copy a snippet of java and paste it into a Groovy context. However, it is not 100% supported, right?  
 Since java syntax is not 100% supported, lets not mess Groovy up with Java. In this case, lets abandon semicolons.
-Therefore, another weaker argument of not having semicolons in Groovy does not support Java syntax 100%, so use no semicolons
-to clearly declare it's Groovy and what is written is pure Groovy.
+Therefore, another weaker argument of not having semicolons in Groovy: Java syntax is not 100% supported, so use no semicolons
+to clearly declare what is written is pure Groovy.
 
 As always, comment below if you have a different view, and lates and best style will be updated to this post.
 

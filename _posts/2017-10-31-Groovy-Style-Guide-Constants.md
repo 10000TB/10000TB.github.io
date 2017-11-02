@@ -90,7 +90,7 @@ Not really! Remember it is still an language of object orientation. whenever you
 -10000TB
 
 
-References:
+References:  
 [Java Tip 67: Lazy instantiation](https://www.javaworld.com/article/2077568/learn-java/java-tip-67--lazy-instantiation.html)  
 [Groovy Style Guide](http://groovy-lang.org/style-guide.html)  
 [Java Object Size Calculations in 64-bit](http://btoddb-java-sizing.blogspot.com/)  

@@ -28,6 +28,9 @@ As always, comment below if you have a different view, and lates and best style 
 
 -10000TB
 
+References:  
+1. [Apache Groocy Style Guide](http://groovy-lang.org/style-guide.html)
+
 {% if page.comments %} 
 {% include comment-plugin.html %}
 {% endif %}

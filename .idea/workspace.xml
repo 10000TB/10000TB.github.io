@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f38c5b-8d11-416e-abc9-5ef4b9b793e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/groovy-logo-banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-25-Groovy-Style-Guide-Always-Make-Things-Groovyish.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-25-Groovy-Style-Guide-Always-Make-Things-Groovyish.md" afterPath="$PROJECT_DIR$/_posts/2017-10-25-Groovy-Style-Guide-Always-Make-Things-Groovyish.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -34,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-25-Groovy-Style-Guide-Always-Make-Things-Groovyish.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="661">
-                <caret line="256" column="19" lean-forward="false" selection-start-line="256" selection-start-column="19" selection-end-line="256" selection-end-column="19" />
+              <first_editor relative-caret-position="724">
+                <caret line="272" column="10" lean-forward="false" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -47,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <first_editor relative-caret-position="694">
+                <caret line="103" column="11" lean-forward="false" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -70,8 +68,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/2017-09-05-A-Joke-on-Google-and-a-trick-on-vim-for-today.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-02-Groovy-Style-Guide-Semicolons.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-25-Groovy-Style-Guide-Always-Make-Things-Groovyish.md" />
       </list>
     </option>
@@ -256,7 +254,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.009027778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30555555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -342,8 +340,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-Groovy-Style-Guide-Constants.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <first_editor relative-caret-position="694">
+            <caret line="103" column="11" lean-forward="false" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
@@ -353,8 +351,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-25-Groovy-Style-Guide-Always-Make-Things-Groovyish.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="661">
-            <caret line="256" column="19" lean-forward="false" selection-start-line="256" selection-start-column="19" selection-end-line="256" selection-end-column="19" />
+          <first_editor relative-caret-position="724">
+            <caret line="272" column="10" lean-forward="false" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />

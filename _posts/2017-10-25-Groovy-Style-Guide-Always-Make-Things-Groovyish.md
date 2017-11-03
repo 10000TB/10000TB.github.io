@@ -267,3 +267,7 @@ References:
 [Apache Groovy Style Guide](http://groovy-lang.org/style-guide.html)  
 [Release Notes for Groovy 2.0](http://groovy-lang.org/releasenotes/groovy-2.0.html#Groovy20releasenotes-Astaticthemeforadynamiclanguage)  
 [Groovy Examples](http://gr8labs.org/getting-groovy/)  
+
+{% if page.comments %} 
+{% include comment-plugin.html %}
+{% endif %}

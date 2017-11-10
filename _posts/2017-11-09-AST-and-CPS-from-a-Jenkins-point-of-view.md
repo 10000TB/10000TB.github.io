@@ -13,6 +13,7 @@ helpful. To show a clear view and only demonstrate what I know, I am showing a l
 
 1. [ Tip ] I found following way of writting a pure Groovy library works pretty well for me.
 First, directory structure is as follow:
+
 ```
 <GIT_ROOT>
 |
@@ -35,6 +36,7 @@ First, directory structure is as follow:
                 |-------<You might also have some groovy at this level>
 
 ```
+
 I manage all tests in `src/com/<CompanyName>/lib/tests`. To run single tests, execute 
 a command like `groovy -classpath src/com/<CompanyName>/lib/ src/com/<CompanyName>/lib/tests/SomeTest.groovy`. 
 What worth mentioning here is that pure groovy is compiled by official Groovy compiler 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 美食笔记
+title: 美食笔记GourmetDiary
 permalink: /gourmetdiary/
 ---
 
-test gourmet diary
+<Strong>Preface</Strong>

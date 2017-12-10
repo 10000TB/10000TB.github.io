@@ -11,4 +11,4 @@ permalink: /gourmetdiary/
 <br/>  
 <br/>
 <br/>
-1. <a href="">12/09/2017 小刘清粥，独自晚餐</a>
+1. <a href="http://10000tb.org/2017/12/09/Dinner-alone-at-Taiwan-Porridge-Kingdom-Cupertino.html">12/09/2017 小刘清粥，独自晚餐</a>

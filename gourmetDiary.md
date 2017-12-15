@@ -20,6 +20,9 @@ permalink: /gourmetdiary/
 <a href="https://www.facebook.com/davidsgourmetdiary/">美食笔记 David's Gourmet Diary</a>
 <br/>
 <br/>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavidsgourmetdiary%2Fposts%2F1999927970019206&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<br/>
+<br/>
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavidsgourmetdiary%2Fvideos%2F1996130807065589%2F&show_text=1&width=476" width="476" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 <br/>
 <br/>
@@ -27,8 +30,6 @@ permalink: /gourmetdiary/
 <br/>
 <br/>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavidsgourmetdiary%2Fposts%2F1993495247329145&width=500" width="500" height="733" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-
 <br/>
 <br/>
 <br/>

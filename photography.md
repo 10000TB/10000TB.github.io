@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NPhotography
+title: Nonprofessional Photography
 permalink: /nphotography
 ---
 
@@ -10,6 +10,7 @@ I used to not believe in capturing and sharing any personal moment, either to sh
 <<<Strong>Lands end at San Francisco</Strong>>><br/>
 I feel I had chosen great angles when taking those two photos.<br/>
 ![Lands End 1](/images/landsEnd1.JPG)
+<br/>
 <br/>
 ![Lands End 2](/images/landsEnd2.JPG)
 <br/>

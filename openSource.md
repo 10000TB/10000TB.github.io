@@ -14,10 +14,9 @@ I am still a newbie in tech world, but I would like to start from today and now 
 ________________________________________________<br/>
 <Strong>David's Open Source Projects</Strong>
 <br/>
-<br/>
 I am happy to have this section for sharing my open source work. But more importantly, I would like to enjoy the open source culture by contributing back meaningful work as much as I can. Really appreciate any feedback on my work. Cheers.
 <br/>
-<Strong>Past/Merged</Strong>
+<Strong>Past/Merged</Strong><br/>
 <a href="https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-ZH-Simple.md"><Strong>Docker Code of Conduct</Strong></a>
 <br/>
 <br/>
@@ -27,7 +26,6 @@ I am happy to have this section for sharing my open source work. But more import
 <span>This is a collection of Jenkins plugin examples, which could be a great start point for developing Jenkins plugin.</span><br/>
 <a href="https://github.com/10000TB/state-replay"><Strong>state-replay</Strong></a><br/>
 <span>This plugin will help you save the runtime state in your workflow pipeline, and let you replay the pipeline from any predefined checkpoint.</span>
-<br/>
 <br/>
 <br/>
 ________________________________________________<br/>

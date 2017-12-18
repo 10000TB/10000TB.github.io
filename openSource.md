@@ -11,6 +11,7 @@ I am still a newbie in tech world, but I would like start from today and now to 
 <br/>
 <br/>
 <br/>
+________________________________________________
 <Strong>David's Open Source Projects</Strong>
 <br/>
 I am happy to have this section for sharing my open source work. But more importantly, I would like to enjoy the open source culture by contributing back meaningful work as much as I can. Really appreciate any feedback on my work. Cheers.
@@ -22,5 +23,8 @@ I am happy to have this section for sharing my open source work. But more import
 <span>This plugin will help you save the runtime state in your workflow pipeline, and let you replay the pipeline from any predefined checkpoint.</span>
 <br/>
 <br/>
+<br/>
+________________________________________________
 <Strong>David's exploration notes of Open Source Projects</Strong>
+
 

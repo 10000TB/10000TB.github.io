@@ -11,13 +11,15 @@ I am still a newbie in tech world, but I would like start from today and now to 
 <br/>
 <br/>
 <br/>
-<Strong>David's Open Source Projects</Strong>
+<span style="font-size:20; font:bold;">David's Open Source Projects</span>
 <br/>
-I am happy to have opened this section for sharing my open source work. But more importantly enjoy the open source culture by contributing meaningful work as much as I can. As a newbie, I would really appreciate any feedback on work, :) . Cheers!
+I am happy to have this section for sharing my open source work. But more importantly, I would like to enjoy the open source culture by contributing back meaningful work as much as I can. Really appreciate any feedback on my work. Cheers.
 <br/>
-<a href="">Jenkins-Plugin-Examples</a><br/>
+<br/>
+<a href="https://github.com/10000TB/Jenkins-Plugin-Examples"><Strong>Jenkins-Plugin-Examples</Strong></a><br/>
 <span>This is a collection of Jenkins plugin examples, which could be a great start point for developing Jenkins plugin.</span><br/>
-<a href="">state-replay</a><br/>
+<br/>
+<a href="https://github.com/10000TB/state-replay"><Strong>state-replay</Strong></a><br/>
 <span>This plugin will help you save the runtime state in your workflow pipeline, and let you replay the pipeline from any predefined checkpoint.</span>
 
 <br/>

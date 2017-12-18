@@ -14,5 +14,6 @@ I feel I had chosen great angles when taking those two photos.<br/>
 <br/>
 ![Lands End 2](/images/landsEnd2.JPG)
 <br/>
-
+The greatness of this one is that this photo captures an aircraft rising with white track left behind in sky, together with human on the trail at the bottom, which could create a peaceful feeling.<br/>
+![Lands End 3](/images/landsEnd3.JPG)
 

@@ -7,7 +7,7 @@ permalink: /opensource/
 I benefited a lot from open source projects in both development of side projects and learning new technology. In addition, those open-source projects are greatly shortening the time used to bring great ideas into real life for all of us, and gradually promoting a sharing, open, and de-centralized public engineering culture. Therefore, I always have a huge admiration for those individual open-source contributors, as well as those large corporates with open source deep in their culture.
 <br/>
 <br/>
-I am still a newbie in tech world, but I would like start from today and now to be part of open source world. I will post links to open source projects I am working on. In addition, I would use the rest of the page to post my learning/reviewing notes of new and interesting open source projects. It can either serves as a record for myself or a writing motivation. Cheers!
+I am still a newbie in tech world, but I would like to start from today and now to be part of open source world. I will post links to open source projects I am working on. In addition, I would use the rest of the page to post my learning/reviewing notes of new and interesting open source projects. It can either serves as a record for myself or a writing motivation. Cheers!
 <br/>
 <br/>
 <br/>

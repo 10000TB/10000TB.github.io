@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nonprofessional Photography
+title: NPhotography
 permalink: /nphotography
 ---
 

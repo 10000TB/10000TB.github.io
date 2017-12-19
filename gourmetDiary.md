@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 美食笔记•GourmetDiary
+title: 美食笔记GourmetDiary
 permalink: /gourmetdiary/
 ---
 

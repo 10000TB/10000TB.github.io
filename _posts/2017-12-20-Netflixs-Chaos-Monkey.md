@@ -6,11 +6,16 @@ comments: true
 <span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">Learn and Write</span>&nbsp;&nbsp;&nbsp;
 <span style="background-color:rgba(204, 0, 0,1); color:white; padding:3px 4px;">Chaos Engineering</span>
 <br/>
+<br/>
 ![Chaos Monkey poster](/images/chaos-monkey-poster.jpeg)
 (Image credit: <a href="https://medium.com/production-ready/chaos-monkey-for-fun-and-profit-87e2f343db31">Chaos Monkey for Fun and Profit</a>)
 <br/>
 <br/>
-The typical explanation of what Choas Monkey you can find online is: it is a tool invented by Netflix in 2011 to test resilience of its IT infrastructure. There are many posts, wiki pages online talking about what it is and how it lines up with the trending DevOps model, so there is no need to add any redundancy here. But I would like introduce chaos engineering and chaos monkey in brief and add some of my understanding in bullet points and then elobrate on the value it is bringing and why we at <a href="http://www.thoughtspot.com">ThoughtSpot</a> decided build our own Chaos Monkey.<br/>
+
+>Chaos Monkey randomly terminates virtual machine instances and containers that run inside of your production environment. Exposing engineers to failures more frequently incentivizes them to build resilient services. - Netflix Engineering
+
+<br/>
+The typical explanation of what Choas Monkey is you can find online: it is a tool invented by Netflix in 2011 to test resilience of its IT infrastructure. There are many posts, wiki pages online talking about what it is and how it lines up with the trending DevOps model, so there is no need to add any redundancy here. But I would like introduce chaos engineering and chaos monkey in brief and add some of my understanding in bullet points and then elobrate on the value it is bringing and why we at <a href="http://www.thoughtspot.com">ThoughtSpot</a> decided build our own Chaos Monkey.<br/>
 <br/>
 In brief, Chaos Monkey is a tool built to simulate random instance failures, which then more frequently exposes engineers to failures, thus encouraging them to build services of more resiliency. Chaos Engineering, as claimed, is "the discipline of experimenting on a distributed system in order to build confidence in the system's capability to withstand turbulent conditions in production."<br/>
 <br/>

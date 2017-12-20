@@ -25,24 +25,22 @@ So, in a nutshell, Chaos Monkey is a proactive effort that brings down system pa
 1. <Strong>Chaos simulation should be conducted in production environment.</Strong>
     * Exercising on other non-production environment add uncertaintity if a similar problem exactly exists in production environment.
     * Problems are pre-assumed to exist left and right in non-production environment, new chaos are not necessary before existing problems are addressed and have itself turned into produciton ready.
-2. </Strong>Start point should be a healthy/steady point of a system.</Strong>
-    * To have confidence identifying a problem and roo-cause after, it makes more sense to control all other variables, including starting from a healthy point, which eliminates any other previous chaotic cause which might potentially be mixed in current analysis.
+2. <Strong>Starting point should be a healthy/steady point of a system.</Strong>
+    * To have confidence identifying a problem and roo-cause it after, it makes more sense to control all other variables, including starting from a healthy point, which eliminates any other previous chaotic cause which might potentially be mixed in current analysis.
     * When not having a health starting point, a distributed system does not behave a normal fashion, which also contradicts the first rule.
 3. <Strong>Automate the chaos in a continous manner.</Strong>
-    * On top of considerations like labor-intensive, unsustainable for manual running, continous running resonates the trend of continous integration.
-    * Manual process, by design, is not portable when it comes to transferring work. It by nature demands more documentation, which in the end requires more time in comprehension.
+    * On top of considerations like labor-intensive, unsustainable for manual running, continous running also resonates the trend of continous integration.
+    * Manual process, by design, is not portable when it comes to transferring work. It by nature demands more documentation, which in the end requires more time in comprehension of such doc.
 4. <Strong>"Minimize the blast radius".</Strong>
     * For systems Netflix are running, millions of users will be impacted when there is no control of allowance for negative impact.
-5. <Strong>Chaos Monkey is meant to bring up potential problems inherent in a distributed system by design, not a testing of how it works.</Strong>
+5. <Strong>Chaos Monkey is meant to bring up potential design problems inherent in a distributed system, not a testing of how it works.</Strong>
     * Testing of how system works and if it works should fall into integration tests.
-6. <Strong>What Chaos Monkey brings is confidence of we can have in our systems.</Strong>
-    * By menas of "sumulations", we should be clear that Chaos Monkey is a software simulation as to real life outages, by which we identify and fic problems, which then builds up our confidence in system behavior when it is serving hundreds of customers if not millions.
-    * There are many real-life outages in the field, which may not all be simultable or simulated, which also make it a probability game.
+6. <Strong>What Chaos Monkey brings is confidence we can incrementally build in our systems.</Strong>
+    * By menas of "sumulations", we should be clear that Chaos Monkey is a software simulation as to real life outages, by which we identify and fix problems, which then builds up our confidence in system behavior when it is serving hundreds of customers if not millions.
+    * There are many real-life outages in the field, which may not all be simultable or simulated, which also makes it a probability game.
 7. <Strong>"Chaos Monkey tackles systematic uncertaintity".</Strong>
 
-<br/>
-<br/>
-The value Chaos Monkey is bringing is straightforward: it pushes a distributed system to its extreme by simulate real-life systematic outages, which proactivly address any inhernt problem in a distributed system, which more importantly encourages engineers to design servies of more resiliency.<br/>
+The value Chaos Monkey is bringing is straightforward: it pushes a distributed system to its extreme by simulate real-life systematic outages, which proactivly address any inhernt problem, which more importantly incentives engineers to design servies of more resiliency.<br/>
 <br/>
 To not make this post long and ugly to read, I'll stop here and encourage you to find other read online and check out Netflix's Chaos Monkey on github as well as its Chaos Monkey article. Happy Chaos Monkeying!<br/>
 <br/>

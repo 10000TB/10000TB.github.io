@@ -47,4 +47,4 @@ Enjoy and Cheers!
 
 {% if page.comments %}
 {% include comment-plugin.html %}
-p% endif %}
+{% endif %}

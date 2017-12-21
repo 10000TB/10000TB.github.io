@@ -7,6 +7,10 @@ comments: true
 <span style="background-color:rgba(204, 0, 0,1); color:white; padding:3px 4px;">Learn and Write</span>
 
 <br/>
+
+![vim trick for the day](/images/vim-trick-of-the-day-pic.png)
+
+<br/>
 <br/>
 
 ```
@@ -43,4 +47,4 @@ Enjoy and Cheers!
 
 {% if page.comments %}
 {% include comment-plugin.html %}
-{% endif %}
+p% endif %}

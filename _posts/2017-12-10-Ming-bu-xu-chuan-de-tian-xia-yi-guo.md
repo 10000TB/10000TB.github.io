@@ -3,18 +3,13 @@ layout: "post"
 title: "名不虚传的天下一锅 SF IPOT"
 comments: true
 ---
-<br/>
-<br/>
 
 <span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">Davids Gourmet Diary</span>&nbsp;&nbsp;&nbsp;
 
 <br/>
-<br/>
 
 ![sf ipot front](/images/sf-ipot-front.jpg)
 
-<br/>
-<br/>
 
 朋友中老左在一次聚会中盛赞天下一锅，为这一切埋下伏笔。再者，另一好友maxim同学来自Belarus，竟然也巧合的知晓天下一锅，说是值得一试。都说无风不起“浪”，想必真的是好吃，才把名声传开来的。于是，周六早上驱车一个小时去吃了顿天下一锅。
 

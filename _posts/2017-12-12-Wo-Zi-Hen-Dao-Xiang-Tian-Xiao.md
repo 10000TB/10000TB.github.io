@@ -4,6 +4,15 @@ title: "我自横刀向天笑"
 comments: true
 ---
 
+<span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">Davids Gourmet Diary</span>&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
+
+![chef zhao kitchen](/images/Chef-Zhao-Kitchen-Palo-Alto-exterior-decor.jpg)
+
+<br/>
+<br/>
+
 ThoughtSpot暑期实习生迪一期满, 周末将返回波士顿继续东北大学的硕士学习。
 在职的新老司机约定在Chef Zhao Kitchen为迪一践行。这将是我被打趣为美食博主后的第一次加冕之餐，然而我并没预料到接下来发生的一切。
 

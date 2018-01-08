@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Xuehao(David) Hu • 胡学浩
+title: 10000TB
 email: xuehao.hu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my prsonal site for anything that I would like to share, mostly 
-  technical, and particularly about anything I have learnt, and which I feel like
+  This is my personal site for anything that I would like to share, mostly 
+  technical, and particularly about anything I have learnt, or which I feel like
   worth sharing, any comment/critique welcome to my email.
+  All explanation rights of any content on the site(10000tb.org) are reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

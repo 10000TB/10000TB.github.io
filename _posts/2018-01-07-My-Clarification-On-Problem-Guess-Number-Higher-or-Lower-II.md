@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "My clarification on the problem: Guess number higher or lower II"
+title: "Some arrogant clarification on a problem: Guess number higher or lower II"
 comments: true
 ---
 

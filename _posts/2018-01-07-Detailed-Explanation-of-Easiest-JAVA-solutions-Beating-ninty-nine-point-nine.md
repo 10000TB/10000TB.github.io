@@ -73,7 +73,6 @@ Generally for the following equation:<br/>
 <br/>
 C[i][j] = A[i][0]*B[0][j] + A[i][1]*B[1][j] + A[i][2]*B[2][j] + ... A[i][k]*B[k][j] .... A[i][K]*B[K][j]  
 <br/>
-<br/>
 j can be from 0 to nB, if we write all of them down, it will like following:
 <br/>
 <br/>

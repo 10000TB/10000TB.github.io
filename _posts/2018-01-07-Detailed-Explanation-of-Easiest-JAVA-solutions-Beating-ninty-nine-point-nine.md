@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Detailed explanation of an easy Algo problem solution beating 99.9% submission"
+title: "Detailed explanation of a smart solution to an algo problem beating 99.9% submission"
 comments: true
 ---
 

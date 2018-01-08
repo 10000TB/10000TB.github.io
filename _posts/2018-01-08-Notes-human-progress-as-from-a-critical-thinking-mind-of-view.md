@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "My reading notes on the chapter: How is Human Progress Possible"
+title: "Some superficial notes on the chapter: How is Human Progress Possible"
 comments: true
 ---
 

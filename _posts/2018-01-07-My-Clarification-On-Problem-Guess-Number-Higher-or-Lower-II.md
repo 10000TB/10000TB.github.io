@@ -6,7 +6,7 @@ comments: true
 
 To ask people to solve a problem in order test his capability of problem solving, it is suggested, I believe, to describe to him/her the problem clearly.<br/>
 <br/>
-below is a problem I found online, and solved before. But I found original problem description is vague in a manner that the problem is unsolvable initially when reaching it just by its description. Therefore, I think it would be nice to share some clarification on what actually this problem.<br/>
+below is a problem I found online, and solved before. But I found original problem description is vague in a manner that the problem is unsolvable initially when reaching it just by its description. Therefore, I think it would be nice to share some clarification on what actually this problem is.<br/>
 <br/>
 The problem:<br/>
 

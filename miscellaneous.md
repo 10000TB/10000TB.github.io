@@ -32,6 +32,19 @@ by J. Lambie<br/>
 <br/>
 <br/>
 <br/>
+<Strong>No Higher Honor: A Memoir of My Years in Washington</Strong>
+<br/>
+by Condoleezza Rice<br/>
+![condoleezza rice autobiography cover](/images/condoleezza_rice_autobiography.jpg)
+
+>"From one of the world’s most admired women, this is former National Security Advisor and Secretary of State Condoleezza Rice’s compelling story of eight years serving at the highest levels of government.  In her position as America’s chief diplomat, Rice traveled almost continuously around the globe, seeking common ground among sometimes bitter enemies, forging agreement on divisive issues, and compiling a remarkable record of achievement."
+
+<br/>
+I have heard her name once within my current employer: ThoughtSpot. She was speaking a few times in my company hosted events and she came to our Heaterquarter once. Those brought her to my attention and I found her autobiography accidentlly in the books inc near standford campus, so I ended up starting reading her autobiography.
+
+<br/>
+<br/>
+<br/>
 <Strong>Difficult Personalities</Strong><br/>
 by Helen McGrath and Hazel Edwards<br/>
 ![difficult personalities](/images/difficult-personalities-book.jpg)

@@ -16,7 +16,7 @@ by Jojo Moyes<br/>
 
 Book Cover                 |  The movie
 :-------------------------:|:-------------------------:
-![mby book](/images/me_before_you_by_jojo_book_cover.jpg)  |  ![mbymovie](/images/me_before_you_movie_poster.jpeg)
+ ![mbymovie](/images/me_before_you_movie_poster.jpeg) | ![mby book](/images/me_before_you_by_jojo_book_cover.jpg) 
 
 <br/>
 I have seen the movie (poster on the right) a while ago, and I accidently ran into a clip of the moview lately, which brings me attention to the book behind the movie.

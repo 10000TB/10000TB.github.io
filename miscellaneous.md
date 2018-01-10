@@ -19,7 +19,7 @@ Book Cover                 |  The movie
  ![mbymovie](/images/me_before_you_movie_poster.jpeg) | ![mby book](/images/me_before_you_by_jojo_book_cover.jpg) 
 
 <br/>
-I have seen the movie (poster on the left) a while ago, and I accidently ran into a clip of the movie lately, which brings my attention to the book behind the movie.
+I have seen the movie (poster on the left) a while ago, and I accidently ran into a clip of the movie lately, which brought my attention to the book behind the movie.
 
 <br/>
 <Strong>How to be Critically Open-Minded: A Psychological and Historical Analysis</Strong><br/>

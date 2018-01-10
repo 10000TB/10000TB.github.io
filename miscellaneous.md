@@ -4,9 +4,22 @@ title: Miscellaneous
 permalink: /miscellaneous
 ---
 
-layout: page
-title: 偷得浮生半日闲
-permalink: /readingNthink
+-------------------------------
+layout: page <br/>
+title: 偷得浮生半日闲 <br/>
+permalink: /readingNthink <br/>
+-------------------------------
+<Strong>Me Before You</Strong><br/>
+by Jojo Moyes<br/>
+
+Book Cover                 |  The movie
+:-------------------------:|:-------------------------:
+![mby book](/images/me_before_you_by_jojo_book_cover.jpg)  |  ![mbymovie](/images/me_before_you_movie_poster.jpeg)
+
+<br/>
+I have seen the movie (poster on the right) a while ago, and I accidently ran into a clip of the moview lately, which brings me attention to the book behind the movie.
+
+<br/>
 <Strong>How to be Critically Open-Minded: A Psychological and Historical Analysis</Strong><br/>
 by J. Lambie<br/>
 ![how to be critically open minded book cover](/images/how-to-be-critically-open-minded.jpg)
@@ -29,9 +42,11 @@ by Helen McGrath and Hazel Edwards<br/>
 <br/>
 <br/>
 
-layout: page
-title: 美(吃)食(货)笔记GourmetDiary
-permalink: /gourmetDiary
+-------------------------------
+layout: page<br/>
+title: 美(吃)食(货)笔记GourmetDiary<br/>
+permalink: /gourmetDiary<br/>
+-------------------------------
 <br/>
 <br/>
 <Strong>Preface</Strong>
@@ -74,9 +89,11 @@ permalink: /gourmetDiary
 <br/>
 <br/>
 <br/>
-layout: page
-title: games
-permalink: /gaming
+-------------------------------
+layout: page<br/>
+title: games<br/>
+permalink: /gaming<br/>
+-------------------------------
 <br/>
 <br/>
 
@@ -119,9 +136,11 @@ Here is the 2017 All-star finals video I have found on youtube:<br/>
 <br/>
 <br/>
 <br/>
-layout: page
-title: NPhotography
-permalink: /nphotograph
+-------------------------------
+layout: page<br/>
+title: NPhotography<br/>
+permalink: /nphotograph<br/>
+-------------------------------
 <br/>
 <br/>
 I used to not believe in capturing and sharing any personal moment, either to show to friends or post on social networks. I don't actually remember when but I have rapidly changed my mindset on sharing and social networking in a more open way. This page in this blog, as part of my social network existence, mainly serves as a place where I would like to share my Nonprofessional-photography work. To share some of my views of our world with visitors; cheers.

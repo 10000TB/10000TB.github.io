@@ -5,7 +5,8 @@ permalink: /about/
 ---
 <img src="/images/David_hu_portrait.JPG" style="width: 300px;position: relative;float: left;margin: 10px;">
 <p style="position: relative;"><br/>
-	<span style="width:80px;height:30px;background-color:white;color:rgba(0,0,0,0.7);">Xuehao Hu 学浩 David - An unserious blogger</span><br/><br/>
+	<span style="width:80px;height:30px;background-color:white;color:rgba(0,0,0,0.7);">Xuehao Hu - 胡学浩 - David <br/> 
+		An unserious blogger, an absentminded coder</span><br/>
 	<span style="width:80px;height:30px;background-color:rgba(0,49,107,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="">Resume</a>&nbsp;&nbsp;Request resume through email.</span>
 	<span style="width:80px;height:30px;background-color:rgba(74,144,226,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="https://www.linkedin.com/in/xuehaohu">LinkedIn</a>&nbsp;&nbsp;https://www.linkedin.com/in/xuehaohu</span>
 	<span style="width:80px;height:30px;background-color:rgba(0,0,0,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="https://github.com/10000TB">GitHub</a>&nbsp;&nbsp;https://github.com/10000TB</span>
@@ -16,16 +17,17 @@ permalink: /about/
 
 
 <Strong>Some facts about me</Strong>:
+<br/>
+‣ I received my bachelor of science degree(computer science) from <a href="https://www.colostate.edu/">Colorado State University</a> Dec 2016. Go Rams!<br/>
+‣ I jumped from 110th floor of a building and managed to stay alive.<br/>
+‣ I used to not believe in weekends and holidays.<br/>
+‣ I am deeply pround of two colleges I attended in China anf US (Although they both sucks in those funny college rankings).<br/>
+‣ I still believe degree is just a piece of paper, and what you can do is unlimited wherever you went to college.<br/>
+‣ 我喜欢眼高手低这个俗语：年轻的我本来经验阅历就不多，手很低，我若是眼再不高，那我还有什么用？<br/>
+‣ I am a 4-years old League of Legends player(as of 2018). <br/>
+<br/>
 
-* I received my bachelor of science degree(computer science) from <a href="https://www.colostate.edu/">Colorado State University</a> Dec 2016. Go Rams!
-* I jumped from 110th floor of a building and managed to stay alive.
-* I used to not believe in weekends and holidays.
-* I am deeply pround of two colleges I attended in China anf US (Although they both sucks in those funny college rankings).
-* I still believe degree is just a piece of paper, and what you can do is unlimited wherever you went to college.
-* 我喜欢眼高手低这个俗语：年轻的我本来经验阅历就不多，手很低，我若是眼再不高，那我还有什么用？
-* I am a 4-years old League of Legends player(as of 2018).
-
-
+-------------------------
 
 <img src="/images/graduation-csu-xlarge-pro.jpg" style="width:100%;">
 <p>Pardon me if it is 2 big a picture to show here :). But I do love the gold pajamas!</p>

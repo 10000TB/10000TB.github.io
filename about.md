@@ -21,10 +21,11 @@ permalink: /about/
 ‣ I received my bachelor of science degree(computer science) from <a href="https://www.colostate.edu/">Colorado State University</a> Dec 2016. Go Rams!<br/>
 ‣ I jumped from 110th floor of a building and managed to stay alive.<br/>
 ‣ I used to not believe in weekends and holidays.<br/>
-‣ I am deeply pround of two colleges I attended in China anf US (Although they both sucks in those funny college rankings).<br/>
+‣ I am deeply proud of two colleges I attended in China anf US (Although they both suck in those funny college rankings).<br/>
 ‣ I still believe degree is just a piece of paper, and what you can do is unlimited wherever you went to college.<br/>
 ‣ 我喜欢眼高手低这个俗语：年轻的我本来经验阅历就不多，手很低，我若是眼再不高，那我还有什么用？<br/>
-‣ I am a 4-years old League of Legends player(as of 2018). <br/>
+‣ I am a 4-years old League of Legends player(as of 2018), and I am still in Bronze IV. <br/>
+‣ Do not try to ask me in person how my chinese name prounce, remeber my fallback name is: David (My chinese name prounces: SHOO-how HOO). <br/>
 <br/>
 
 -------------------------

@@ -20,6 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   technical, and particularly about anything I have learnt, or which I feel like
   worth sharing, any comment/critique welcome to my email.
   All explanation rights of any content on the site(10000tb.org) are reserved.
+
+  © 2016-2018 Xuehao(David) Hu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

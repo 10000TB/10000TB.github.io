@@ -32,6 +32,12 @@ permalink: /about/
 -------------------------
 My stories in photos:
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 <img src="/images/graduation-csu-xlarge-pro.jpg" style="width:100%;">
 <p>Pardon me if it is 2 big a picture to show here :). But I do love the gold pajamas!</p>

@@ -10,6 +10,17 @@ title: 偷得浮生半日闲 <br/>
 permalink: /readingNthink <br/>
 -------------------------------
 
+<Strong>Consumer Behavior: Buying, Having, and Being</Strong><br/>
+by Michael R. Solomon
+
+![Consumer behavior buying selling being](/images/consumer_behavior_buying_selling_being.jpg)
+
+>消费者的心理是古怪而有趣的
+
+>“三四十岁的年纪的人可能觉得我们在这个世界上是成功的，合格的消费者， 所以可能当我们去判断消费者行为和心理的时候会凭着自己的常识去判断。但是非常邪门的是：无论是我们实际做公司的过程中遭遇到的东西，还是我看到这些书上谈到的东西。你凭着一个正常的消费者的心理去判断群体的这种行为和心理的时候，经常会出现非常可拍的错误。” -罗永浩，2010罗永浩全国巡讲完结篇 @海淀剧院。
+
+<br/>
+<br/>
 <br/>
 <Strong>Me Before You</Strong><br/>
 by Jojo Moyes<br/>

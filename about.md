@@ -33,21 +33,3 @@ permalink: /about/
 My stories in photos:
 
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-![graduation](/images/graduation-csu-xlarge-pro.jpg)
-
-Pardon me if it is 2 big a picture to show here :). But I do love the gold pajamas!
-<br/>
-<br/>
-In April 2017 at las vegas, I did an unforgettable sky-diving from the top of the ![/images/graduation-csu-xlarge-pro.jpg](https://www.google.com/search?biw=1403&bih=691&q=stratosphere&oq=stratos&gs_l=psy-ab.3.0.0i67k1l2j0i20k1j0.54444.58988.0.61139.13.10.3.0.0.0.99.825.10.10.0..3..0...1.1.64.psy-ab..0.13.832...46j35i39k1j0i46k1.RFlPOtONJNw). I have say it was really really fun and scary! here is what I look like in the sky:
-![Vegas sky jump](/images/vagas-sky-jump-gopro.png)
-<br/>
-Wait a minute, how can I not share the jumping video recorded? so here is the video recorded and you're welcome:<br/>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MnfGrQ37Ick" frameborder="0" allowfullscreen></iframe>

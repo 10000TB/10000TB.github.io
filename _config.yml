@@ -28,15 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  10000TB
 linkedin_username: xuehaohu
 
-
-# Build settings
-markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+author:
+      name: 10000tb
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
@@ -47,3 +40,14 @@ hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+

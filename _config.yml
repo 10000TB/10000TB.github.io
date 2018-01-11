@@ -28,9 +28,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  10000TB
 linkedin_username: xuehaohu
 
-author:
-      name: 10000tb
-
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"

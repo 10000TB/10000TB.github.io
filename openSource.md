@@ -20,7 +20,7 @@ I am happy to have this section for sharing my open source work. But more import
 <a href="https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-ZH-Simple.md"><Strong>Docker Code of Conduct</Strong></a><br/>
 <span>I provided mandarin translation for Docker's official code-of-conduct.</span><br/>
 <a href="https://github.com/10000TB/10000TB.github.io"><Strong>10000TB.ORG</Strong></a><br/>
-This blog is fully hosted on github and is totally open-source. Every element on the site in available in the repo. Cheers!<br/>
+This blog is fully hosted on github and is totally open-source. Every element on the site is available in the repo. Cheers!
 <br/>
 <br/>
 <Strong>Ongoing</Strong>

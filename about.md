@@ -5,12 +5,12 @@ permalink: /about/
 ---
 <img src="/images/David_hu_portrait.JPG" style="width: 300px;position: relative;float: left;margin: 10px;">
 <p style="position: relative;"><br/>
-	<span style="width:80px;height:30px;background-color:white;color:rgba(0,0,0,0.7);">Xuehao Hu 学浩 David - An unserious blogger</span><br/>
+	<span style="width:80px;height:30px;background-color:white;color:rgba(0,0,0,0.7);">Xuehao Hu 学浩 David - An unserious blogger</span><br/><br/><br/>
 	<span style="width:80px;height:30px;background-color:rgba(0,49,107,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="">Resume</a>&nbsp;&nbsp;Request resume through email.</span>
 	<span style="width:80px;height:30px;background-color:rgba(74,144,226,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="https://www.linkedin.com/in/xuehaohu">LinkedIn</a>&nbsp;&nbsp;https://www.linkedin.com/in/xuehaohu</span>
 	<span style="width:80px;height:30px;background-color:rgba(0,0,0,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="https://github.com/10000TB">GitHub</a>&nbsp;&nbsp;https://github.com/10000TB</span>
 	<span style="width:80px;height:30px;background-color:rgba(245,166,35,1);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="mailto:xuehao.hu@gmail.com?Subject=Hello%20again">Email:</a>&nbsp;&nbsp;xuehao.hu@gmail.com</span><br/>
-	<span style="width:300px;height:30px;background-color:rgba(238,11,11,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:white;" href="">What I do?:</a>&nbsp;&nbsp;Read, Write, and sometimes code</span>
+	<span style="width:300px;height:30px;background-color:rgba(238,11,11,0.6);color:white;">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:white;">What I do:</span><span style="background-color:white;color:rgba(0,0,0,0.7)">&nbsp;&nbsp;read,blog, and sometimes code<span></span>
 </p>
 <p style="margin-top: 15px;position: relative;padding-top: 5px;">
 </p>

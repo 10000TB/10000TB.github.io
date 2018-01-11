@@ -28,8 +28,3 @@ permalink: /about/
 ‣ Do not try to ask me in person how my chinese name prounce, remeber my fallback name is: David (My chinese name prounces: SHOO-how HOO). <br/>
 <br/>
 
-
--------------------------
-My stories in photos:
-
-

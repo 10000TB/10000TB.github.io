@@ -15,10 +15,21 @@ permalink: /about/
 </p>
 
 
-<p><strong>A little more about me</strong>:</p>
-<p>I received my bachelor of science degree(computer science) from <a href="https://www.colostate.edu/">Colorado State University</a> Dec 2016. Go Rams!!</p>
+<Strong>Some facts about me</Strong>:
+
+* I received my bachelor of science degree(computer science) from <a href="https://www.colostate.edu/">Colorado State University</a> Dec 2016. Go Rams!
+* I jumped from 110th floor of a building and managed to stay alive.
+* I used to not believe in weekends and holidays.
+* I am deeply pround of two colleges I attended in China anf US (Although they both sucks in those funny college rankings).
+* I still believe degree is just a piece of paper, and what you can do is unlimited wherever you went to college.
+* 我喜欢眼高手低这个俗语：年轻的我本来经验阅历就不多，手很低，我若是眼再不高，那我还有什么用？
+* I am a 4-years old League of Legends player(as of 2018).
+
+
+
 <img src="/images/graduation-csu-xlarge-pro.jpg" style="width:100%;">
-<p>Pardon me if it is 2 big a picture to show here :). But I do love the gold pajamas!</p><br>
+<p>Pardon me if it is 2 big a picture to show here :). But I do love the gold pajamas!</p>
+* 
 <p>In April 2017 at las vegas, I did an unforgettable sky-diving from the top of the <a href="https://www.google.com/search?biw=1403&bih=691&q=stratosphere&oq=stratos&gs_l=psy-ab.3.0.0i67k1l2j0i20k1j0.54444.58988.0.61139.13.10.3.0.0.0.99.825.10.10.0..3..0...1.1.64.psy-ab..0.13.832...46j35i39k1j0i46k1.RFlPOtONJNw">Stratosphere tower</a>. I have say it was really really fun and scary! here is what I look like in the sky:
 <img src="/images/vagas-sky-jump-gopro.png" style="width:100%">
 <p>Wait a minute, how can I not share the jumping video recorded? so here is the video recorded and you're welcome:</p>

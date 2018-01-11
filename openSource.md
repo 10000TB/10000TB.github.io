@@ -17,7 +17,10 @@ ________________________________________________<br/>
 I am happy to have this section for sharing my open source work. But more importantly, I would like to enjoy the open source culture by contributing back meaningful work as much as I can. Really appreciate any feedback on my work. Cheers.
 <br/>
 <Strong>Past/Merged</Strong><br/>
-<a href="https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-ZH-Simple.md"><Strong>Docker Code of Conduct</Strong></a>
+<a href="https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-ZH-Simple.md"><Strong>Docker Code of Conduct</Strong></a><br/>
+<span>I provided mandarin translation for Docker's official code-of-conduct.</span><br/>
+<a href="https://github.com/10000TB/10000TB.github.io"><Strong>10000TB.ORG</Strong></a><br/>
+This blog is fully hosted on github and is totally open-source. Every element on the site in available in the repo. Cheers!<br/>
 <br/>
 <br/>
 <Strong>Ongoing</Strong>

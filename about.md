@@ -22,9 +22,14 @@ permalink: /about/
 ‣ I jumped from 110th floor of a building and managed to stay alive.<br/>
 ‣ I used to not believe in weekends and holidays.<br/>
 ‣ I am deeply proud of two colleges I attended in China anf US (Although they both suck in those funny college rankings).<br/>
-‣ I still believe degree is just a piece of paper, and what you can do is unlimited wherever you went to college.<br/>
-‣ 我喜欢眼高手低这个俗语：年轻的我本来经验阅历就不多，手很低，我若是眼再不高，那我还有什么用？<br/>
-‣ I am a 4-years old League of Legends(Lol, 撸啊撸) player(as of 2018), and I am still in Bronze IV. <br/>
-‣ Do not try to ask me in person how my chinese name prounce, remeber my fallback name is: David (My chinese name prounces: SHOO-how HOO). <br/>
+‣ I am a 4-years old League of Legends player(as of 2018). <br/>
+‣ In case it is hard for you pronounce my chinese name, remeber my fallback name is: David (My chinese name prounces: SHOO-how HOO). <br/>
+<br/>
 <br/>
 
+<Strong>What I believe</Strong>
+‣ 年轻人眼高手低并不是坏事：年轻人本来经验阅历就不多，手很低，若是眼再不高，不甚追求，那他/她还有什么用<br/>
+
+‣ Whenever I think about the fact that I only have limited time throughout my life, when today passes, my life turn one day shorter. Then, I have no reason to complain and be passive, and I can always turn myself positive to things and do all that I can to work, win, love and leave no regrets behind.<br/>
+
+‣ I still believe degree is just a piece of paper, and what you can do is unlimited wherever you went to college.<br/>

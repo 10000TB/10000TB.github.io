@@ -28,6 +28,7 @@ permalink: /about/
 <br/>
 
 <Strong>What I believe</Strong>
+<br/>
 ‣ 年轻人眼高手低并不是坏事：年轻人本来经验阅历就不多，手很低，若是眼再不高，不甚追求，那他/她还有什么用<br/>
 
 ‣ Whenever I think about the fact that I only have limited time throughout my life, when today passes, my life turn one day shorter. Then, I have no reason to complain and be passive, and I can always turn myself positive to things and do all that I can to work, win, love and leave no regrets behind.<br/>

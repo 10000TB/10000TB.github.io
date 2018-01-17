@@ -64,7 +64,8 @@ There many more errors that can be caught with `TypeChecked` annotation. Below i
 &nbsp;&nbsp;&nbsp;&nbsp;b) **return type**. like below: `String test(){ return 1 }` will be complained with `Cannot return type of integer on method of return type String`.  
 In addition: `return` from `if/else`, `try/catch`, `switch/case` block will also be checked at comilation time.  
 For example:
-```
+
+{% highlight groovy %}
 import groovy.transform.TypeChecked
 
 @TypeChecked
@@ -76,9 +77,11 @@ int test(name){
             return 'Maxim'
     }
 }
-```
+{% endhighlight %}
+
 will complain return type doesn't match the return type of the method. To be exact:
-``` 
+
+{% highlight groovy %}
 org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
 test.groovy: 9: [Static type checking] - Cannot return value of type java.lang.String on method returning type int
  @ line 9, column 20.
@@ -86,12 +89,14 @@ test.groovy: 9: [Static type checking] - Cannot return value of type java.lang.S
                       ^
 
 1 error
-```
+{% endhighlight %}
+
 One thing worth pointing out is that this is during comilation time, and all cases blocks will be checked!
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Note:** However, common type conversions that Groovy supports are still allowed and Groocy compiler will not complain about it.  
 For example, using the same example like above but make a slight modification:
-```
+
+{% highlight groovy %}
 import groovy.transform.TypeChecked
 
 @TypeChecked
@@ -103,7 +108,8 @@ String test(name){ // The only change is: I changed return type to String
             return 'Maxim'
     }
 }
-```
+{% endhighlight %}
+
 This will compile without any problem. So what happens is that for `case 'David'`, the return `112` will be automatically
 converted to string: `"112"`.  
 Then you might be wondering what common conversion include ?  
@@ -115,7 +121,8 @@ are all supported. To summarize, I quote Geoocy release note:
  >For method signatures returning String, boolean or Class, Groovy converts return values to these types automatically:
 
 To include everything release, I shall also mention that `type inference` is also supported in Groovy. For example:  
-```
+
+{% highlight groovy %}
 import groovy.transform.TypeChecked
 
 @TypeChecked
@@ -126,7 +133,8 @@ String test() {
 }
 
 test()
-```
+{% endhighlight %}
+
 Groovy will be smart enough to know company is of type String and use GDK methods `toUpperCase()`.
 
 Although static typing bring the convenience of reporting errors at compile time, it
@@ -135,7 +143,8 @@ mixed dynamic and statically typed methods. `TypedChecked` and `@TypeChecked(Typ
 to add and exclude a scope for static type checking.
 
 One more example of type inference:
-```
+
+{% highlight groovy %}
  import groovy.transform.TypeChecked
 
  @TypeChecked
@@ -151,7 +160,7 @@ One more example of type inference:
  }
 
  test("no need to case type")
-```
+{% endhighlight %}
 
 Some cases in terms of type inference when Groovy will throw errors:  
 1. When Groovy is not able to decide the type at compile time.  
@@ -162,7 +171,8 @@ II. **Operators overriding to write concise code.**
 As operators in Groovy are implemented by methods, we can override those methods in
 our own methods so that we can have a concise code.  
 For example:  
-```
+
+{% highlight groovy %}
  class Weight {
        def val
 
@@ -183,7 +193,8 @@ For example:
  def w2 = new Weight(val:13)
 
  println w1+w2
-```
+{% endhighlight %}
+
 This will produce: `25`
 
 In addition, below is all operators and their corresponding methods in Groovy:  
@@ -222,7 +233,8 @@ In addition, below is all operators and their corresponding methods in Groovy:
 
 III. **Use native list in Groovy**  
 Here is an example:  
-```
+
+{% highlight groovy %}
  def list = []
  println list.class
  // This return: java.util.ArrayList
@@ -241,24 +253,28 @@ Here is an example:
  list1.add("item3")
  println list1
  // Add a new item
-```
+{% endhighlight %}
+
 It will produce following output:  
-```
+
+{% highlight groovy %}
 class java.util.ArrayList
 [item1, 2, 3.14]
 class java.util.LinkedList
 class java.util.Vector
 0
 [item1, 2, 3.14, item2, item3]
-```
+{% endhighlight %}
+
 IV. **Automatic check for null pointer**  
 The safe navigation operator `?` can be used to check null pointer automatically.
 For example:  
-```
+
+{% highlight groovy %}
 if (obj?.someMethod()){
     // do some thing.
 }
-```
+{% endhighlight %}
 
 
 (TODO:)Add more.

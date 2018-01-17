@@ -42,7 +42,8 @@ in their Java but still be able to catch error(s) during compilation.
 **Static Typing**  
 Example 1: No matching method  
 Groovy provides a annotation `TypeChecked` to notify groovy compiler to do static checking:
-``` 
+
+{% highlight groovy %}
 import groovy.transform.TypeChecked
 
 void printHaha() { println "David is handsome" }
@@ -56,7 +57,8 @@ void test(){
     // Compilation error: cannot find matching method
     printHahaaaaa()
 }
-```
+{% endhighlight %}
+
 There many more errors that can be caught with `TypeChecked` annotation. Below is a list that I compiled:  
 &nbsp;&nbsp;&nbsp;&nbsp;a) **assignment type check**.  like `int a = "I am a string"` will be complained: `Cannot assign string to a variable of int`  
 &nbsp;&nbsp;&nbsp;&nbsp;b) **return type**. like below: `String test(){ return 1 }` will be complained with `Cannot return type of integer on method of return type String`.  

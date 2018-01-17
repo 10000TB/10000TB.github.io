@@ -49,7 +49,7 @@ C[ i ][ j ] = A[ i ][0]*B[0][j] + A[i][1]*B[1][j] + A[i][2]*B[2][j] + ... A[i][K
 <br/>
 Then a brute force solution is as follow:<br/>
 
-```
+{% highlight java %}
 public class Solution {
         public int[][] multiply(int[][] A, int[][] B) {
             int m = A.length, n = A[0].length, nB = B[0].length;
@@ -65,7 +65,7 @@ public class Solution {
             return C;  
         }
 }
-```
+{% endhighlight %}
 
 b) <Strong>The smart solution</Strong>: the key part of smart solution is that: it does not calculate the final result at once, and it takes each value from A, and calculate and partial sum and accumulate it into the final spot:<br/>
 For example, for each value A[i][k], if it is not zero, it will be used at most nB times ( n is B[0].length ), which can be illustrated as follow:
@@ -91,7 +91,7 @@ For each value A[i][k] in matrix A, if it is not zero, we calculate A[i][k] * B[
 <br/>
 The smart solution code is as follow:<br/>
 
-```
+{% highlight java %}
 public class Solution {
     public int[][] multiply(int[][] A, int[][] B) {
         int m = A.length, n = A[0].length, nB = B[0].length;
@@ -109,7 +109,7 @@ public class Solution {
         return C;   
     }
 }
-```
+{% endhighlight %}
 
 (Credit:@yavinci; I am having a different version of the solution, so I am directly referencing the original version as a reference to demonstrate how mine is different). <br/>
 <br/>
@@ -118,7 +118,7 @@ Based on the discussion above, the inner checking (`if (B[k][j] != 0)`) is actua
 <br/>
 So the smart solution can also be written as follow by removing the check ( which is my version ): <br/>
 
-```
+{% highlight java %}
 public class Solution {
     public int[][] multiply(int[][] A, int[][] B) {
         int m = A.length, n = A[0].length, nB = B[0].length;
@@ -136,7 +136,7 @@ public class Solution {
         return C;   
     }
 }
-```
+{% endhighlight %}
 
 <br/>
 c) "Sparse matrix manipultion" helps, if we compress the first sparse matrix into rows of lists( in each row list, it contains ( value, index ) pair ), we actually don't need to go over all values in a row in matrix A when are calculating the final result matrix. But Overall, it does not help improve run time algorithmatically!!

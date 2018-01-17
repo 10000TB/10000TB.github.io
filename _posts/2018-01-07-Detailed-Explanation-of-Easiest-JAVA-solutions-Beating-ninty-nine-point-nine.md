@@ -2,6 +2,7 @@
 layout: "post"
 title: "Detailed explanation of a smart solution to an algo problem beating 99.9% submission"
 comments: true
+image: /images/attachments_article_algorithm_col_slide_lamparas-colgantes-algorithm-slide-03.jpg
 ---
 
 This post is about a coding problem and why the solution I pasted down below is smart.

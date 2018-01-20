@@ -2,12 +2,14 @@
 layout: "post"
 title: "The Chaos Engineering and Chaos Monkey"
 comments: true
+categories: work
+tags: [work, learn]
+image: chaos-monkey-poster.jpeg 
 ---
 <span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">Learn and Write</span>&nbsp;&nbsp;&nbsp;
 <span style="background-color:rgba(204, 0, 0,1); color:white; padding:3px 4px;">Chaos Engineering</span>
 <br/>
 <br/>
-![Chaos Monkey poster](/images/chaos-monkey-poster.jpeg)
 (Image credit: <a href="https://medium.com/production-ready/chaos-monkey-for-fun-and-profit-87e2f343db31">Chaos Monkey for Fun and Profit</a>)
 <br/>
 <br/>

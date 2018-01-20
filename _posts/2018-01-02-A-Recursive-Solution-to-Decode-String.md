@@ -2,6 +2,9 @@
 layout: "post"
 title: "A recursive solution to decode strings"
 comments: true
+categories: algo
+tags: [algo]
+image: matric-decoded-image.jpeg
 ---
 
 The problem:<br/>
@@ -79,7 +82,11 @@ public String decodeString(String s) {
     return sb.toString();
 }
 ```
-
+<br/>
+<br/>
+<br/>
+Rferences:<br/>
+1. Image credit: matrix decoded image (http://www.theeventchronicle.com/study/the-matrix-decoded-decoding-the-occult-messages-in-the-matrix/#)
 
 
 {% if page.comments %} 

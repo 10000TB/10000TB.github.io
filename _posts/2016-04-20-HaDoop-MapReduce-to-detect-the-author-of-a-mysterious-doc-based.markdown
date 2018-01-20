@@ -1,6 +1,10 @@
 ---
 layout: "post"
 title: "HaDoop MapReduce to detect the author of a mysterious doc based on 1.2GB corpus with Cosine Similarity"
+comments: true
+categories: school
+tags: [school, project, learning, share]
+image:  MysteriousAuthorFnder.png
 ---
   
 
@@ -14,7 +18,7 @@ Given a 1.2GB corpus, where there are thousands of authors and their novels/arti
  Summary of implementation
   There are two steps: first, we calculate the author attributes of the 1.2G corpus, which will generate a author attributes file of about 900MB. Second, we get the mysterious doc and cauculate this mysterious author's writing style(attribute), and calculate the cosine similarty between this author and each of authors in the corpus, and finally output top ten authors with top ten cosine similarity values
 
-![Summary of Implementation](/images/MysteriousAuthorFnder.png)
+![Summary of Implementation](/assets/img/MysteriousAuthorFnder.png)
 
 
 <p style="font-size:10px;">

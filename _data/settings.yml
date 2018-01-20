@@ -1,0 +1,31 @@
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+google-ID: 'UA-112060364-2'
+
+menu:
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Miscellaneous', folder: 'pages', file: 'miscellaneous.html'}
+- {name: 'OpenSource', folder: 'pages', file: 'opensource.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'linkedin', link: 'https://linkedin.com/in/xuehaohu'}
+- {icon: 'facebook', link: 'https://www.facebook.com/xuehao.hu.9'}
+- {icon: 'instagram', link: 'https://www.instagram.com/dav.hu/'}
+- {icon: 'envelope', link: 'mailto:xuehao.hu@gmail.com'}
+- {icon: 'rss-square', link: 'rss-feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'

@@ -2,16 +2,13 @@
 layout: "post"
 title: "Trick of the Day: one line vim nmap to beautify bloody Json monster"
 comments: true
+categories: work
+tags: [work, note]
+image: vim-trick-of-the-day-pic.png
 ---
 <span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">Vim Trick</span>&nbsp;&nbsp;&nbsp;
 <span style="background-color:rgba(204, 0, 0,1); color:white; padding:3px 4px;">Learn and Write</span>
 
-<br/>
-
-![vim trick for the day](/images/vim-trick-of-the-day-pic.png)
-
-<br/>
-<br/>
 
 ```
 nmap =j :%!python -m json.tool<CR>

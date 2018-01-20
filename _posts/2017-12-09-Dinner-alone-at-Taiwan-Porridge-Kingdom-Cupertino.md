@@ -2,6 +2,9 @@
 layout: "post"
 title: "十二月九日在小刘清粥Cupertino分店独自晚餐"
 comments: true
+categories: gourmet
+tags: [gourmet, write]
+image: taiwan-porrige-kingdom-inside-look.jpg
 ---
 
 一如既往，故事发生在饭点。不同的自然是谋食的馆子。今天本来准备图个省事去到韶山冲用几个熟悉的好菜打发晚饭，但驱车出发的瞬间
@@ -12,3 +15,8 @@ comments: true
 <br/>
 <br/>
 不下许久，我便落座，三菜一粥点完，顷刻间便被端了上来，品鉴就开始了。
+<br/>
+<br/>
+<br/>
+References:<br/>
+1. Image credit: Taiwan porrige kingdom inside look (https://www.zagat.com/r/taiwan-porridge-kingdom-cupertino)

@@ -2,8 +2,10 @@
 layout: "post"
 title: "The recap you don't wanna miss for 2017 Jenkins World"
 comments: true
+categories: work
+tags: [conference, write]
+image: jenkins-world-banner.jpg
 ---
-![2017 Jenkins World](/images/jenkins-world-banner.jpg)
 (Image credit @Cloudbees)  
 
 I made a slack post within my current company(<a href="http://www.thoughtspot.com">Thoughtspot</a>) a few hours after the conference ended. Taking the fact of low number of responses following the post, I don't feel people's excitement around the new era of Jenkins. Moreover, I put a quite bit of time compiling it over the night. So instead of having it burried in coming channel chaos, I thought to myself: why not repost it here in my blog, and spread it through the holy globe of Internet.
@@ -55,17 +57,17 @@ There was a session on this, and it was around AWS and container. The idea is to
 
 <strong>Microservices with OpenShift from RedHat</strong><br>
 RedHat introduced their openShift for microservices development (it supports K8s for container orchestration). It could be a great platform for microservices development.
-![2017 Jenkins World](/images/openshift-banner.jpg)
+![2017 Jenkins World](/assets/img/openshift-banner.jpg)
 
 <strong>How to enable cross-component branch commits with dependency relations</strong><br>
 Simples way is: don't allow dependency relations on commits across component branches. However, if there have to be relations, there is a way to make those commits go through qualifying pipelines smoothly.
-![cross component commits with dependency](/images/cross-component-commits-with-dependency.jpg)
+![cross component commits with dependency](/assets/img/cross-component-commits-with-dependency.jpg)
 
 - Build a topological dependency relations between commits.
 - Do incremental build from those independent commits by following the topological relations.
 - Use built artifact(s) for corresponding commits that depend on them.
 - If there is circular dependent relations, break commits into subsets, do the same thing on subsets.
-![topological dependency build](/images/topological-incremental-build.jpg)
+![topological dependency build](/assets/img/topological-incremental-build.jpg)
 
 In the last, grand appreciation for my current employer's sponsorship of the conference ticket. 
 

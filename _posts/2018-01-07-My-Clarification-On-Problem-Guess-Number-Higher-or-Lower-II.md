@@ -2,6 +2,9 @@
 layout: "post"
 title: "Some arrogant clarification on a problem: Guess number higher or lower II"
 comments: true
+categories: algo
+tags: [algo]
+image: guess-number-higher-lower.jpg
 ---
 
 To ask people to solve a problem in order test his capability of problem solving, it is suggested, I believe, to describe to him/her the problem clearly.<br/>
@@ -66,6 +69,8 @@ The strategy here is to iterate through all number possible and select it as the
 <br/>
 <br/>
 
+References:<br/>
+1. Image credit: guess the secret number (https://www.studyladder.com/games/activity/number-guessing-game-higher-or-lower-numbers-up-to-1000--29150)
 
 {% if page.comments %} 
 {% include comment-plugin.html %}

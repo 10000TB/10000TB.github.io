@@ -2,16 +2,15 @@
 layout: "post"
 title: "That Groovy Style Guide - Semicolons"
 comments: true
+categories: work
+tags: [work, write, groovy]
+image: semicolons-banner.png
 ---
 
 That Groovy Style Guide - Semicolons
 
 1. <Strong> No semicolons </Strong>  
 * it is more idiomatic to have no simicolons in Groovy
-  
-  
-  
-![Semicolons dianosours](/images/semicolons-banner.png)
   
 I would strongly recommend this syle because of two reasons as stated below.
 

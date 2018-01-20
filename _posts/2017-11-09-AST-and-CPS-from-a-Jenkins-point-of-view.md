@@ -2,6 +2,9 @@
 layout: "post"
 title: "Groovy Compilation: AST and CPS from a Jenkins point of view"
 comments: true
+categories: work
+tags: [work, write]
+image: code-compiler-image-referenced.jpg
 ---
 
 When you are trying to plugin in your pure Groovy library into your Jenkins CI pipelines, you often run 
@@ -66,6 +69,11 @@ as claimed.
 
 
 -10000TB
+<br/>
+<br/>
+<br/>
+References:<br/>
+1, Image credit: code compiler image (https://blog.programminghub.io/blog/2017/02/28/offline-compiler-apps-solution/) 
 
 
 {% if page.comments %} 

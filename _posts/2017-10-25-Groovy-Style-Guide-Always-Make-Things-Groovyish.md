@@ -2,16 +2,15 @@
 layout: "post"
 title: "That Groovy Style Guide - Always make things more Groovyish"
 comments: true
+categories: work
+tags: [work, write, groovy, styleguide, general]
+image: groovy-logo-banner.jpg
 ---
 
 1.<Strong> Use idiomatic syntax </Strong>  
 I have compiled a list of idiomatic Groovy syntax down below. Check them out.
   
 2.<Strong> Take advantage of features provided by Groovy </Strong>
-  
-  
-  
-![Groovy image](/images/groovy-logo-banner.jpg)  
   
   
 

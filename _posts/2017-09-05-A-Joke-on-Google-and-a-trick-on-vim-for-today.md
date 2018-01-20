@@ -2,8 +2,10 @@
 layout: "post"
 title: "A Joke on Google and a trick on vim for today"
 comments: true
+categories: work
+tags: [work, write]
+image: exit-vim.png
 ---
-![Exitting Vim finally](/images/exit-vim.png)
 
 (How to exit vim. Image credit: the holy globe of Internet)
 

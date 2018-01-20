@@ -2,6 +2,9 @@
 layout: "post"
 title: "That Groovy Style Guide - Constants"
 comments: true
+categories: work
+tags: [work, write, groovy, styleguide]
+image: design-joke-banner.jpg
 ---
 
 That Groovy Style Guide - Constants
@@ -16,12 +19,10 @@ Lets do everything in a Groovy way
 3.<Strong> Define constants in a separate class for external access</Strong>  
 
 4.<Strong> Define a class for constant type instead of primitive types when constant need to have other attributes </Strong>  
-Like: deploymentEnvironment: dev, production, testing.  
+Like: deploymentEnvironment: dev, production, testing.   
   
-  
-  
-![esign joke: design gan with dev](/images/design-joke-banner.jpg) 
-  
+<br/>
+
 Recently I have been working on finding a way to write a portale Groovy common 
 library for Jenkins pipelines at <a href="http://www.thoughtspot.com">ThoughtSpot</a>. 
 By portable, I mean writing common functions/utilities that is pure Groovy without using 

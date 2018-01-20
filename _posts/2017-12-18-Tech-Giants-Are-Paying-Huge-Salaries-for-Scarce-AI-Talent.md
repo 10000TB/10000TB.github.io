@@ -2,6 +2,9 @@
 layout: "post"
 title: '[BrainI/O]: "Tech Giants Are Paying Huge Salaries for Scarce A.I. Talent"'
 comments: true
+categories: reading
+tags: [reading, write]
+image: nytimes-tech-giants-pay-big-salaries-to-ai-talent.jpg
 ---
 <span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">读书笔记</span>&nbsp;&nbsp;&nbsp;
 <span style="background-color:rgba(0, 153, 51,1); color:white; padding:3px 4px;">Brain I/O</span>&nbsp;&nbsp;&nbsp;
@@ -9,7 +12,6 @@ comments: true
 <br/>
 <br/>
 
-![nyt article top image](https://static01.nyt.com/images/2017/10/23/business/23TALENTWAR-1/00TALENTWAR-1-superJumbo.jpg)
 (Image credit: New York Times, <a href="https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html">article link</a>)
 <br/>
 

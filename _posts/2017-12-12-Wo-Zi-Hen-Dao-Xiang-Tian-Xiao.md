@@ -2,12 +2,12 @@
 layout: "post"
 title: "我自横刀向天笑"
 comments: true
+categories: gourmet
+tags: [gourmet, write]
+image: Chef-Zhao-Kitchen-Palo-Alto-exterior-decor.jpg
 ---
 <span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">Davids Gourmet Diary</span>&nbsp;&nbsp;&nbsp;
 <br/>
-
-![chef zhao kitchen](/images/Chef-Zhao-Kitchen-Palo-Alto-exterior-decor.jpg)
-
 <br/>
 
 ThoughtSpot暑期实习生迪一期满, 周末将返回波士顿继续东北大学的硕士学习。

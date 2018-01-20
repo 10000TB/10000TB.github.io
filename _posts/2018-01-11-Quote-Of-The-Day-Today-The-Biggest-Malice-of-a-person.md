@@ -2,6 +2,10 @@
 layout: "post"
 title: "Quote of the day today: The biggest malice of a person is..."
 comments: true
+author: "10000TB"
+categories: quotes
+tags: [quote]
+image: Mike-Reid-Photography-Sky-View-2017.jpg 
 ---
 
 I was reading an article this morning, and this quote came to my attention:<br/>
@@ -19,6 +23,10 @@ I wouldn't write further, but leave the thinking freedom to all of you readers. 
 
 -10000tb
 
+<br/>
+<br/>
+Reference:<br/>
+1. Image credit:  Mike-Reid-Photography-Sky-View-2017 (http://skyviewobservatory.com/)
 
 {% if page.comments %} 
 {% include comment-plugin.html %}

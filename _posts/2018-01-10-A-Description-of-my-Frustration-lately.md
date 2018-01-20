@@ -2,6 +2,9 @@
 layout: "post"
 title: "最近的那个不怎么明媚的忧伤"
 comments: true
+categories: personal
+tags: [personal]
+image: bu-ming-mei-you-shang.jpeg
 ---
 <span style="background-color:rgba(51, 102, 204,1); color:white; padding:3px 4px;">生活</span>&nbsp;&nbsp;&nbsp;
 <span style="background-color:rgba(204, 0, 0,1); color:white; padding:3px 4px;">不再年少的青春</span>
@@ -16,3 +19,10 @@ comments: true
 考虑到人的每一点时间都是我们的生命组成，我是在无法控制自我的对我的生命不负责任。虽然意识到了这点，然而，那股忧伤也上我束手无策，任由宰割。
 
 在班上，快到午饭点时，写下这段。这一天还没有过半，我已经想要回家了。
+<br/>
+<br>
+-10000tb
+<br/>
+<br/>
+References:<br/>
+1. Image credit: top image (bu-ming-mei-you-shang.jpeg) (http://www.twoeggz.com/news/4456117.html)

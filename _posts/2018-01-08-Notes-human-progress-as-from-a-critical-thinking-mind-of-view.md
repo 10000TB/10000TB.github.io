@@ -2,6 +2,9 @@
 layout: "post"
 title: "Some superficial notes on the chapter: How is Human Progress Possible"
 comments: true
+categories: reading
+tags: [reading]
+image: 5difficultPersonalities.png
 ---
 
 Human progress, either on morality or sciences, as claimed by John Lambie, is historically mistaken to be inevitable. However, the main point he is holding is that human progress should not be explained as inevitable at all, but that history can get manifestly better or worse, and human progress is achieved for a reason or as a outcome. Following that, he credits critical open-mindedness for human progress.<br/>
@@ -12,8 +15,10 @@ In parallel to science progress, moral progress is defined by John Lambie as "th
 <br/>
 <br/>
 -10000tb
-
 <br/>
+<br/>
+References:<br/>
+1. Image credit: 5 difficult personalities (https://www.patlive.com/blog/your-customer-service-guide-for-5-difficult-personalities/)
 
 {% if page.comments %} 
 {% include comment-plugin.html %}

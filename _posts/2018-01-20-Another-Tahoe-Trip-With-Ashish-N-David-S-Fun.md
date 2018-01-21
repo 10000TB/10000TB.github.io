@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Jan 20, 2018 one day ski trip to NorthStar at Tahoe after 11 inches of slow"
+title: "Jan 20, 2018 one day ski trip to NorthStar at Tahoe after 11 inches of snow"
 comments: true
 categories: ski
 tags: [life, ski, friends, carving]

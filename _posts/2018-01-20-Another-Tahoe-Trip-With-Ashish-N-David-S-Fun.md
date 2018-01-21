@@ -14,9 +14,9 @@ Together with another David within ThoughtSpot and Ashish, I took a one day trip
   
 As we need to carpool to Tahoe, we need to meetup first in the Bay area. Taking the fact that one way to Tahoe will consume around 4 hours, we need to get up around 5 am in the morning to make the most of the time for skiing/snowboarding. I have taken a few photos along the way to Tahoe to give you a sense of show how driving for a trip like this would look like:  
   
-![Jan 20 Skii Trip to Tahoe; One our way to Tahoe; From Dark to sunrise](/assets/img/Jan-20-2018-tahoe-ski-trip/jan-20-ski-triip-going-from-dark-to-sunrise-1.png)
-![Jan 20 Skii Trip to Tahoe; One our way to Tahoe; From Dark to sunrise](/assets/img/Jan-20-2018-tahoe-ski-trip/jan-20-ski-triip-going-from-dark-to-sunrise-2.png)
-![Jan 20 Skii Trip to Tahoe; One our way to Tahoe; From Dark to sunrise](/assets/img/Jan-20-2018-tahoe-ski-trip/jan-20-ski-triip-going-from-dark-to-sunrise-3.png)
+![Jan 20 Skii Trip to Tahoe; One our way to Tahoe; From Dark to sunrise 1](/assets/img/Jan-20-2018-tahoe-ski-trip/jan-20-ski-triip-going-from-dark-to-sunrise-1.png)
+![Jan 20 Skii Trip to Tahoe; One our way to Tahoe; From Dark to sunrise 2](/assets/img/Jan-20-2018-tahoe-ski-trip/jan-20-ski-triip-going-from-dark-to-sunrise-2.png)
+![Jan 20 Skii Trip to Tahoe; One our way to Tahoe; From Dark to sunrise 3](/assets/img/Jan-20-2018-tahoe-ski-trip/jan-20-ski-triip-going-from-dark-to-sunrise-3.png)
 
 > Photo Copyright: @10000tb. Redistribution shall be allowed only under written approval from original author.
 

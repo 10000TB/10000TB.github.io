@@ -3,7 +3,7 @@ layout: "post"
 title: "10000TB.ORG COMMENT POLICY"
 comments: true
 categories: legal
-tags: [comment, policy]
+tags: [comment, policy, legal]
 image: blog-comment-policy.jpg
 ---
 >Image credit: Comment Policy (https://r-rwebdesign.com/comment-policy)

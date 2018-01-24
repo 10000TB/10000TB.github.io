@@ -129,7 +129,7 @@ Pros:
 
 Cons:
 
-* It is not straightforward for people to grasp what it is at first hand when they are familiar with functions as such.
+* It is not straightforward for people to grasp what it is at first hand when they are not familiar with functions as such.
 * In fact, I think that using the json data as `initializer` is a misuse. Simply pre-appending the json into the list would greatly reduce the understanding gap here.  
   
 Feel free to comment below. - Lets discuss !

@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<img src="/assets/img/David_hu_portrait.JPG" style="width: 300px;position: relative;float: left;margin: 10px;">
+<img id="about-page-portrait" src="/assets/img/David_hu_portrait.JPG" style="width: 300px;position: relative;float: left;margin: 10px;">
 <p style="position: relative;"><br/>
 	<span style="width:80px;height:30px;background-color:white;color:rgba(0,0,0,0.7);">Xuehao Hu - 胡学浩 - David <br/> 
 		 Unserious blogger, Absentminded coder, 51% Cynical and 49% Regretful.</span><br/><br/>
@@ -33,3 +33,12 @@ title: About
 ‣ Whenever I think about the fact that I only have limited time throughout my life, when today passes, my life turn one day shorter. Then, I have no reason to complain and be passive, and I can always turn myself positive to things and do all that I can to work, win, love and leave no regrets behind.<br/>
 
 ‣ I still believe degree is just a piece of paper, and what you can do is unlimited wherever you went to college.<br/>
+
+
+<script>
+    var seconds = (new Date).getTime() / 1000;
+    var photos = ['/assets/img/David_hu_portrait.JPG', '/assets/img/selfie-in-my-room.JPG', '/assets/img/selfie-with-painting.JPG'];
+    var idx = Math.round(seconds) % photos.length;
+    console.log(idx)
+    document.getElementById("about-page-portrait").src = photos[idx];
+</script>

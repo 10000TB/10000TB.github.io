@@ -139,7 +139,7 @@ Now, from efficiency point of view, I don't think you will get anything cleaner,
   
 However, we can compress the code above and make it more elegant looking:  
 
-```
+```python
 class SuppressStdout(object):
     
     def __init__(self, suppress=True):

@@ -22,4 +22,8 @@ $phone-width: 480px;
 
 $header-thickness: 56px;
 
+ a.hover {
+    text-decoration: underline;
+  }
+
 @import "_sass/-sections-dir";

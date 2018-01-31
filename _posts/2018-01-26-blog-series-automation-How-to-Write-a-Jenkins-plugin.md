@@ -1,5 +1,6 @@
 ---
 layout: "post"
+published: false
 title: "How to write a Jenkins plugin ? - Start from understanding Jenkins internals"
 categories: automation
 tags: [automation, jenkins, plugin, learnandwrite]

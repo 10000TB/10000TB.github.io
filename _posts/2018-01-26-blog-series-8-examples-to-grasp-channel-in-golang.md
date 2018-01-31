@@ -1,5 +1,6 @@
 ---
 layout: "post"
+published: false
 title: "8 examples to understand Golang channel"
 categories: golang
 tags: [golang, channel, leanrandblog]

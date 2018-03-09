@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Get started with python decorators: detach and layerize teusable functions"
+title: "Get started with python decorators: detach and layerize reusable functions"
 comments: true
 categories: python
 tags: [blogseries, python, dummynotes]

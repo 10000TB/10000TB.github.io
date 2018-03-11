@@ -54,7 +54,7 @@ In my opinion, three examples can illustrate the point to the majority if not th
 >>>
 ```
 
-*Example 3: reference is like a box, need to cautions about reassignment.*
+*Example 3: reference is like a box, reassignment doesn't work.*
 ```python
 >>> def example_func(lst):
 ...     lst = [2, 3, 4]

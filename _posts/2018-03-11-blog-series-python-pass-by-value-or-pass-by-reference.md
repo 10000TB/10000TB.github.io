@@ -9,12 +9,10 @@ image: "blog-series-python/blog-series-davids-learning-notes-as-a-python-dummy.p
 
 > Without reading further, following three points are worth taking away.  
 
-**python function calls are pass-by-object-reference**  
-**normal primitives will only pass by reference**  
-**objects will pass by reference pointers**  
-  
-  
-  
+* **python function calls are pass-by-object-reference**  
+* **normal primitives will only pass by reference**  
+* **objects will pass by reference pointers**  
+&nbsp;  
   
 I was coding a python solution to a simple algorithm proble. The thinking/write-up took 10% of the whole duration of solving it, the rest of the time was spent on figuring out if the values are being pass by value or reference. The problem/confusion is so outstanding that I feel like I don't know python, though I already worked with python for a few months for various projects at work. Then, I spent some time gooling and would like to share some notes on this particular language
 feature within python.  

@@ -110,6 +110,20 @@ TypeError: 'str' object does not support item assignment
 >>> 
   ``` 
 
+  &nbsp;
+
+- [x] How to remove/strip an exact substring from end of a string ?  
+  A simple way with slicing:  
+  ```python
+>>> str_val = "I am David Hu"
+>>> str_rmv = " Hu"
+>>> str_val[:-len(str_rmv)]
+'I am David'
+>>>
+  ```
+  `str.strip(...)` will also work given the pattern, but be cautious and you might get unexpected result.
+  
+  &nbsp;
 
 To curate:  
 - [ ] The time complexity for python to return the length of a string ?

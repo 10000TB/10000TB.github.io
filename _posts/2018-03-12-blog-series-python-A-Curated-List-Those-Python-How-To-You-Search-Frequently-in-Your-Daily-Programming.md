@@ -116,3 +116,6 @@ To curate:
 - [ ] The time complexity for python to return the length of a list ?
 - [ ] The time complexity for python to return the count of keys in a dictionary ?
 - [ ] What is the error: `TypeError: 'unicode' object does not support item assignment` ?  References:[[1]](https://stackoverflow.com/questions/21416460/typeerror-unicode-object-does-not-support-item-assignment-in-dictionaries) 
+- [ ] How do you run a shell command from python ?  
+- [ ] What is python's native way of listing all files in a directory ? References: [[1]](https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory)
+

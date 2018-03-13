@@ -14,25 +14,59 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to enter multiline string in interactive shell ?  
+  A simple way with `"""`:
+  ```python
+input_str = """
+  ```
+  once you enter `"""`, it will let you `enter` to enter newline to construct multiline string. It will end when you enter a enclosing `"""`. It will look like following after you enter:
+  ```python
+input_str = """
+...   test multiline string
+...  one more line
+... one more """
+>>>
+  ```
+
+- [x] One-liner to search and get a line in python?  
+  A straightforward way:  
+  ```python
+>>> input_str = """
+...    I am a test
+...   haha
+... target this is a target line
+... I am a target line
+... fake line
+... why cant I be a target line?
+... """
+>>> [line for line in input_str.split("\n") if "target" in line]
+['target this is a target line', 'I am a target line', 'why cant I be a target line?']
+>>>
+  ```
+
 - [x] How to define custom exceptions in python ?  
   A bare minimum example:  
-  ```python
-class MyException(Exception):
-    pass
 
-raise MyException("Something went wrong error")
+  ```python
+  class MyException(Exception):
+      pass
+
+  raise MyException("Something went wrong error")
   ```
+
   This will produce a traceback like: `MyException: Something went wrong error`
   
   To override something(i.e. for passing extra args when raising an exception), do this:  
+
+  ```python
+  class MyException(Exception):
+      
+      def __init__(self, message, extra_args):
+          super(MyException, self).__init__(message)
+          # Custom code here to handle extra args.
+          self.extra_args = extra_args
   ```
-class MyException(Exception):
-    
-    def __init__(self, message, extra_args):
-        super(MyException, self).__init__(message)
-        # Custom code here to handle extra args.
-        self.extra_args = extra_args
-  ```
+
   The benefit of this is that we can pass in a dictionary like `extra_args`, and retrieve it later once thrown with
   `e.extra_args` (given you catch exception like this: `except MyException as e:`)
   

@@ -13,7 +13,13 @@ Often times, when we work with different languages, our attentionn is spreaded a
 
 Bookmark this page for your references !  
 Comment below to contribute your examples !
-  
+
+- [x] What is "late binding" in python ?  
+  An example: imports that happen during runtime.  
+  Late binding of imports is fortunately rarely done (its is slow and against PEP-8 `Python Enhancement Proposals`) 
+
+  &nbsp;
+
 - [x] How to **count occurrences of a char/substring** in a string in python?  
     
   simple way:  

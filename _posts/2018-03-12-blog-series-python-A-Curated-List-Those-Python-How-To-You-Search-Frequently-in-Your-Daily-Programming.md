@@ -14,6 +14,33 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to define custom exceptions in python ?  
+  A bare minimum example:  
+  ```python
+class MyException(Exception):
+    pass
+
+raise MyException("Something went wrong error")
+  ```
+  This will produce a traceback like: `MyException: Something went wrong error`
+  
+  To override something(i.e. for passing extra args when raising an exception), do this:  
+  ```
+class MyException(Exception):
+    
+    def __init__(self, message, extra_args):
+        super(MyException, self).__init__(message)
+        # Custom code here to handle extra args.
+        self.extra_args = extra_args
+  ```
+  The benefit of this is that we can pass in a dictionary like `extra_args`, and retrieve it later once thrown with
+  `e.extra_args` (given you catch exception like this: `except MyException as e:`)
+  
+  Note in python 3, we can use `super().__init__(message)` instead of `super(MyException, self).__init__(message)`.  
+  **Reference link:** [[1]](https://stackoverflow.com/questions/1319615/proper-way-to-declare-custom-exceptions-in-modern-python)
+
+  &nbsp;
+
 - [x] What is "late binding" in python ?  
   An example: imports that happen during runtime.  
   Late binding of imports is fortunately rarely done (its is slow and against PEP-8 `Python Enhancement Proposals`) 

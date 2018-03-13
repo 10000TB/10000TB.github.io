@@ -14,6 +14,20 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to check if a string is of (positive, unsigned) integer ?  
+  with `str.isdigit()`:  
+  ```python
+  >>> str_val = "12312"
+  >>> str_val.isdigit()
+  True
+  >>> str_val = "123.23"
+  >>> str_val.isdigit()
+  False
+  >>> str_val = "adad"
+  >>> str_val.isdigit()
+  False
+  ```
+
 - [x] How to check if a string can be convert to float?  
   A simple and working way:  
   ```python

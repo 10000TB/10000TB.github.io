@@ -14,6 +14,15 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to check if a string can be convert to float?  
+  A simple and working way:  
+  ```python
+  try:
+      float(val_str)
+  except ValueError:
+      print "not a float"
+  ```
+
 - [x] How to enter multiline string in interactive shell ?  
   A simple way with `"""`:
   ```python
@@ -28,7 +37,7 @@ input_str = """
 >>>
   ```
 
-- [x] One-liner to search and get a line in python?  
+- [x] One-liner to search and get a line by a target string in python?  
   A straightforward way:  
   ```python
 >>> input_str = """

@@ -14,15 +14,26 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to return index of first appearance of a substring in a string ?  
+  with `str.find(substring)`:
+  ```python
+  In [7]: a='I am david hu am am'
+  
+  In [8]: a.find('am')
+  Out[8]: 2
+  In [9]: a.find("john")
+  Out[9]: -1
+  ```
+
 - [x] How to do float division in python ?  
   Example:  
   ```python
->>> a = b = 3
->>> a/b
-1
->>> a/float(b)
-1.0
->>>
+  >>> a = b = 3
+  >>> a/b
+  1
+  >>> a/float(b)
+  1.0
+  >>>
   ```
 
 - [x] How to check if a string is of (positive, unsigned) integer ?  

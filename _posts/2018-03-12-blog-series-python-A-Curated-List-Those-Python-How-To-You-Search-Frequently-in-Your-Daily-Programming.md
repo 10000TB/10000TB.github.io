@@ -14,6 +14,17 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to do float division in python ?  
+  Example:  
+  ```python
+>>> a = b = 3
+>>> a/b
+1
+>>> a/float(b)
+1.0
+>>>
+  ```
+
 - [x] How to check if a string is of (positive, unsigned) integer ?  
   with `str.isdigit()`:  
   ```python

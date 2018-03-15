@@ -14,6 +14,30 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to create a new set with a single string in it ?  
+  Pass a list with single string at parameter for `set()`:
+  ```python
+  In [1]: set(["teststring"])
+  Out[1]: {'teststring'}
+  ```
+  **Caution:** when you simply pass a string to `set()`, you will end up with a set of all chars in the string:
+  ```python
+  In [2]: set("teststring")
+  Out[2]: {'e', 'g', 'i', 'n', 'r', 's', 't'}
+
+  In [3]:
+  ```
+
+- [x] How to make a list of n zeros ?  
+  with `[0] * n`
+  ```python
+  In [1]: [0] * 4
+  Out[1]: [0, 0, 0, 0]
+  
+  In [2]: [0] * 10
+  Out[2]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
 - [x] How to return index of first appearance of a substring in a string ?  
   with `str.find(substring)`:
   ```python

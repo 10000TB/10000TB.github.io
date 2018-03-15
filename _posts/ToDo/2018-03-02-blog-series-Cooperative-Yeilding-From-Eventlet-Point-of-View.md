@@ -3,6 +3,7 @@ layout: "post"
 title: "Cooperative yeilding from module eventlet's point of view"
 comments: true
 categories: python
+published: false
 tags: [blogseries, python, dummynotes]
 image: "blog-series-python/blog-series-davids-learning-notes-as-a-python-dummy.png"
 ---

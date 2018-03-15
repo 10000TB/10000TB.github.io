@@ -4,6 +4,7 @@ title: "Structure a simpe automation framework (1)"
 comments: true
 tags: [blogseries, automation, learn&share]
 categories: automation
+published: false
 image: "blog-series-automation/blog-series-automation-banner.png"
 ---
 

@@ -4,6 +4,7 @@ title: "Understand CoRoutine with python"
 comments: true
 categories: python
 tags: [blogseries, python, dummynotes]
+published: false
 image: "blog-series-python/blog-series-davids-learning-notes-as-a-python-dummy.png"
 ---
 

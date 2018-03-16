@@ -14,6 +14,9 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] Add color to text in python?
+  Ref: [1](http://ozzmaker.com/add-colour-to-text-in-python/)
+
 - [x] How to create a new set with a single string in it ?  
   Pass a list with single string at parameter for `set()`:
   ```python

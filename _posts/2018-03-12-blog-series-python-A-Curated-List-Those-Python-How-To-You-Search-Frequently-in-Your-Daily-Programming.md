@@ -14,6 +14,90 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] Check if two sets have intersection in python ?
+  ```
+  In [1]: a = set(['1', '2', '3'])
+  
+  In [2]: b = set(['3', '4', '5'])
+  
+  In [3]: a.isdisjoint(b)
+  Out[3]: False
+  
+  In [4]: c = set(['4', '5', '6'])
+  
+  In [5]: a.isdisjoint(c)
+  Out[5]: True
+  
+  In [6]:
+  ```
+
+- [x] How to format string with auto-filled zeros in front to satisfy required amount of digits?
+  with string `format`:
+  ```
+  In [1]: format(1, "02")
+  Out[1]: '01'
+
+  In [2]:
+  ```
+
+- [x] How to print type of a variable in python?
+  with `type()` in python
+  ```python
+  In [1]: a = 'test'
+  
+  In [1]: print type(a)
+  <type 'str'>
+  
+  In [2]: b = 1
+  
+  In [3]: print type(b)
+  <type 'int'>
+  
+  In [4]:
+  ```
+
+- [x] How to get base-10 value of a hexdecimal digit ?
+  with built-in function `int()`, we can do:
+  ```python
+  In [1]: int('a', 16)
+  Out[1]: 10
+  
+  In [2]: int('b', 16)
+  Out[2]: 11
+  ```
+  A little hack here: in fact, `int(val, base)` is a calculation mechanism, take a look at some examples I tried:  
+  ```
+  In [3]: int('a', 15)
+  Out[3]: 10
+  
+  In [4]: int('a', 14)
+  Out[4]: 10
+
+  In [5]: int('a',11)
+  Out[5]: 10
+  
+  In [6]: int('a',10)
+  ---------------------------------------------------------------------------
+  ValueError                                Traceback (most recent call last)
+  <ipython-input-99-fb0c9de8bbed> in <module>()
+  ----> 1 int('a',10)
+  
+  ValueError: invalid literal for int() with base 10: 'a'
+  
+  In [7]:
+  ```
+
+- [x] How to increment a char in python?
+  with `ord()` returning unide code point of a single char when it is an unicode object and `chr` return string representation of a char by its unide code integer.
+  ```python
+  # get next char.
+  In [1]: chr(ord('a')+1)
+  Out[1]: 'b'
+
+  In [2]: chr(ord('b')-1)
+  Out[2]: 'a'
+  ```
+
 - [x] Add color to text in python?
   Ref: [1](http://ozzmaker.com/add-colour-to-text-in-python/)
 

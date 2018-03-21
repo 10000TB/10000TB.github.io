@@ -15,6 +15,31 @@ Bookmark this page for your references !
 Comment below to contribute your examples !
 
 
+- [x] What is `zip` founction in python ?  
+  It takes a number iterables and return a list of tuples with ith tuple's values from ith element from each iterable.  
+  ```
+  In [34]: lst1 = ['hah', 'ad', 'c', 'd']
+  
+  In [35]: lst2 = [1, 2, 3, 4]
+  
+  In [36]: lst3 = [1.2, 4.4, 7.1, 1.1]
+  
+  In [37]: zip(lst1, lst2, lst3)
+  Out[37]: [('hah', 1, 1.2), ('ad', 2, 4.4), ('c', 3, 7.1), ('d', 4, 1.1)]
+  
+  In [38]:
+  ```
+  If iterable's elements are of different size, `zip` will go most to last element of smallest iterable.  
+  `zip` will always create the tuple in the order of iterables from left to right.  
+    
+  To unzip a list of tuples, we can call `zip` again by prefixing the list of tuples with `*`(star); we will get separate lists:  
+  ```
+  In [38]: tuples = zip(lst1, lst2, lst3)
+  In [41]: zip(*tuples)
+  Out[41]: [('hah', 'ad', 'c', 'd'), (1, 2, 3, 4), (1.2, 4.4, 7.1, 1.1)]
+  ```
+
+
 - [x] How to create a dictionary with default value(s) ?  
   with `defaultdict` from `collections`, we can achieve that:  
   ```python
@@ -525,6 +550,7 @@ TypeError: 'str' object does not support item assignment
   &nbsp;
 
 To curate:  
+- [ ] Explore python `collections`
 - [ ] Python's variable scoping ?
 - [ ] The time complexity for python to return the length of a string ?
 - [ ] The time complexity for python to return the length of a list ?

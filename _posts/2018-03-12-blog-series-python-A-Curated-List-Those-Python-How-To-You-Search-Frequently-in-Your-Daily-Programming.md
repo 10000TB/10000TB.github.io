@@ -14,8 +14,164 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
-- [x] Check if two sets have intersection in python ?
+
+- [x] What is `dir()` function in python ?  
+  As from python docs:  
+  `dir([object])`  
+  Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.  
+  ```python
+  In [1]: dir()
+  Out[1]:
+  ['In',
+   'Out',
+   '_',
+   '__',
+   '___',
+   '__builtin__',
+   '__builtins__',
+   '__doc__',
+   '__name__',
+   '_dh',
+   '_i',
+   '_i1',
+   '_ih',
+   '_ii',
+   '_iii',
+   '_oh',
+   '_sh',
+   'exit',
+   'get_ipython',
+   'quit']
+  
+  In [2]: class Foo(object):
+     ...:     pass
+     ...:
+  
+  In [3]: f = Foo()
+  In [4]: dir(f)
+  Out[4]:
+  ['__class__',
+   '__delattr__',
+   '__dict__',
+   '__doc__',
+   '__format__',
+   '__getattribute__',
+   '__hash__',
+   '__init__',
+   '__module__',
+   '__new__',
+   '__reduce__',
+   '__reduce_ex__',
+   '__repr__',
+   '__setattr__',
+   '__sizeof__',
+   '__str__',
+   '__subclasshook__',
+   '__weakref__']
+  
+  In [4]:
   ```
+  If a object has a function named: `__dir__()`, this method will be called and must return a list of attributes. For example:  
+  ```python
+  In [6]: class Shape(object):
+     ...:     def __dir__(self):
+     ...:         return ["attr1", "attr2", "attr3"]
+     ...:
+  
+  In [7]: s = Shape()
+  
+  In [8]: dir(s)
+  Out[8]: ['attr1', 'attr2', 'attr3']
+  
+  In [9]:
+  ```
+  Every object in python has attributes.  
+  ```
+  In [1]: a = 3
+  
+  In [2]: dir(a)[:5]
+  Out[2]: ['__abs__', '__add__', '__and__', '__class__', '__cmp__']
+  
+  In [3]: b = (23,2,3)
+  
+  In [4]: dir(b)[:5]
+  Out[4]: ['__add__', '__class__', '__contains__', '__delattr__', '__doc__']
+  
+  In [5]: str_ = 'test'
+  
+  In [6]: dir(str_)[:5]
+  Out[6]: ['__add__', '__class__', '__contains__', '__delattr__', '__doc__']
+  ```
+  To get value for each attribute, use `getattr` or dot syntax:  
+  ```
+  In [7]: str_.__add__
+  Out[7]: <method-wrapper '__add__' of str object at 0x1078f6690>
+  
+  In [8]: getattr(str_, '__add__')
+  Out[8]: <method-wrapper '__add__' of str object at 0x1078f6690>
+  ```
+  Dot syntax(`.`) is nothing more than syntactic sugar for `getattr()` in python.  
+
+  Advantage for dot notation: It is easier to read.  
+
+  Advantage for `getattr()`: Allow getting attributes by dynamically constructed string.  
+
+  Correspondingly, `setattr()` and dot notation with assignment are same thing.
+  
+  In python, we can create and assign a new attribute value by … well, by simply assigning to it.  
+  
+  We can assign new attributes to nearly any object in Python.  
+  ```
+  def hello():
+      return "Hello"
+  
+  >>> hello.abc_def = 'hi there!'
+  
+  >>> hello.abc_def
+  'hi there!'
+  # Credit: http://blog.lerner.co.il/python-attributes/
+  ```
+  (Python functions are objects as well.)  
+  
+  "we’re not creating variables at all. Rather, we’re adding one or more additional attributes to the particular object (i.e., instance) that has been passed to __init__."  
+  * No difference between `self.x = 3` inside `__init__`  and `f.x = 3` outside. Doing it inside instead helps make code more readable, more convenient.
+
+  > "This is one of those conventions that is really useful to follow: Yes, you can create and assign object attributes wherever you want. But it makes life so much easier for everyone if you assign all of an object’s attributes in __init__, even if it’s just to give it a default value, or even None. "
+
+  Difference between function body and class body:  
+  > A function’s body is only executed when we invoke the function. However, a the body of the class definition is executed immediately, and only once — when we define the function. We can execute code in our class definitions:  
+  
+  ```
+  class Foo(object):
+    print("Hello from inside of the class!")
+  # We should never do this, but this is a byproduct of class definition executes immediately.
+  ```
+
+  Creating a class attribute:  
+  ```
+  class Foo(object):
+      x = 100
+  # This is not creata a class variable and assign a value, but create a class attribute and assign a value to it.
+  ```
+
+- [x] Why python class methods need a `self` as first argument ?  
+  Standardalone definition of founction in current scope is usually global. When we define a founction within a class, it is actually creating an attribute with founction name in that class.  
+  ```
+  >>> class Foo(object):
+          def blah(self):
+              return "blah"
+  
+  >>> Foo.blah
+  <unbound method Foo.blah>
+  ```
+  In fact, class founctions in python sit on class instead of sitting on instance. When we invoke founction through instance(f), python is actually invoking it from class()(Foo) and pass instance as reference(f).  
+  
+  There is no difference between `f.blah()` and `Foo.blah(f)`.  
+
+  Reference: [1](http://blog.lerner.co.il/python-attributes/)
+
+- [x] Check if two sets have intersection in python ?
+  ```python
   In [1]: a = set(['1', '2', '3'])
   
   In [2]: b = set(['3', '4', '5'])
@@ -349,6 +505,7 @@ TypeError: 'str' object does not support item assignment
   &nbsp;
 
 To curate:  
+- [ ] Python's variable scoping ?
 - [ ] The time complexity for python to return the length of a string ?
 - [ ] The time complexity for python to return the length of a list ?
 - [ ] The time complexity for python to return the count of keys in a dictionary ?

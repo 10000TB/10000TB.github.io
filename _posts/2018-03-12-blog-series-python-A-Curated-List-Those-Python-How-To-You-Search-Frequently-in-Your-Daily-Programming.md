@@ -15,6 +15,26 @@ Bookmark this page for your references !
 Comment below to contribute your examples !
 
 
+- [x] How to create a dictionary with default value(s) ?  
+  with `defaultdict` from `collections`, we can achieve that:  
+  ```python
+  from collections import defaultdict
+
+  data = [('Mon', 10.0), ('Tue', 21.5), ('Wed', 22.5), ('Thur', 17.5), ('Fri', 29.2)]
+  spending = defaultdict(float)
+  for day, dollar in data:
+      spending[day] = dollar
+  # defaultdict(<type 'float'>, {'Fri': 29.2, 'Thur': 17.5, 'Wed': 22.5, 'Mon': 10.0, 'Tue': 21.5})
+  ```
+  Another example of using `defaultdict` to consolidate a list of tuples:  
+  ```
+  data = [('A', 2), ('B', 23), ('C', 1), ('d', 100), ('a', 99), ('b', 5), ('c', 12)]
+  combined = defaultdict(list)
+  for k, v in data:
+      combined[k.lower()].append(v)
+  # defaultdict(<type 'list'>, {'a': [2, 99], 'c': [1, 12], 'b': [23, 5], 'd': [100]})
+  ```
+
 - [x] What is `dir()` function in python ?  
   As from python docs:  
   `dir([object])`  

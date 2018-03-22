@@ -14,6 +14,67 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] What is `next` founction in python ?  
+  It retrieves next item from iterator.  
+  
+  Reference: `next(iterator, default)`. If iterable is exhausted, it return the default value if specified, otherwise, it raises a `StopIteration`.
+
+- [x] What is `iter` founction in python ?  
+  It returns  an iterator for a given object. It creates an object which can be iterated one element at a time.  
+  There are three common usecases:  
+  1. On collection object (set, tuple, list)
+  2. On user-defined object (from class that implements `__iter__` and `next`)
+  3. On callable object  
+  
+  An example of user-defined object:  
+  ```
+  In [13]: class Test:
+      ...:     def __init__(self):
+      ...:         self.max = 10
+      ...:     def __iter__(self):
+      ...:         self.curr =  0
+      ...:         return self
+      ...:     def next(self):
+      ...:         if self.curr+1 > self.max:
+      ...:             raise StopIteration
+      ...:         self.curr += 1
+      ...:         return self.curr
+      ...:
+  
+  In [14]:
+  
+  In [14]: t = Test()
+  
+  In [15]: dir(t)
+  Out[15]: ['__doc__', '__init__', '__iter__', '__module__', 'max', 'next']
+  
+  In [16]: it = iter(t)
+  
+  In [17]: for val in it:
+      ...:     print val
+      ...:
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  10 
+  ``` 
+  An example of callable object:  
+  ```
+  In [33]: with open('./test.log') as f:
+      ...:     for line in iter(f.readline, ''):
+      ...:         print line
+      ...:
+  Out [33]:
+  test line 1
+  test line2
+  line 3
+  ```
 
 - [x] What is `zip` founction in python ?  
   It takes a number iterables and return a list of tuples with ith tuple's values from ith element from each iterable.  

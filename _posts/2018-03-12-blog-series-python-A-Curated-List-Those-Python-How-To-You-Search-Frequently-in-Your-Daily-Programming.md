@@ -14,6 +14,24 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to count occurences of a item in a list ?  
+  with `list.count()`:  
+  ```python
+  In [41]: [1, 2, 3, 4, 5, 6, 7, 1, 1].count(1)
+  Out[41]: 3
+  
+  In [42]: ['a', 'haha', 'b', 'haha', 'haha'].count('haha')
+  Out[42]: 3
+  
+  In [43]: ['a', 'haha', 'b', 'haha', 1.2].count(1.2)
+  Out[43]: 1
+  
+  In [44]: ['a', 'haha', 'b', 'haha', 1.2, 3, 1.2].count(1.2)
+  Out[44]: 2
+  
+  In [45]:
+  ```
+
 - [x] What does `os.path` do ?  
   It is for platform-indenpendent manipulation of file names.  
   "Parse, build, test otherwise work on file names and paths"

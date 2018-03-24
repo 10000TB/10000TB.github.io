@@ -8,6 +8,50 @@ image: "blog-series-vim/blog-series-vim.png"
 ---
 
 Vim has been my editor for day to day work for a while, and often times I find myself questing same vim How-To on stackoverflow and websites as such. To help manage a list of my frequent used Vim tips/commands, and potentially be useful to you, I am curating this list of vim How-Tos.  
+
+- [x] visual selection in vim ?  
+  `Ctl-v` - visual block.
+  `v` - select chars.
+  `V` - select current line.
+
+- [x] Shortcuts to move cursor in vim ?  
+  `gg` - to move to start of file.
+   `G` - to move to end of file.
+  `''` - to move to last active point.
+  `0` - to move to start of current line.
+  `$` - to move to end of current line.
+
+- [x] How to run command within vim ?  
+  Syntax: `:%![cmd]`:  
+  Here `%` represent that we pass in whole buffer of vim into command for filtering. We can also specify a range instead of passing the whole buffer. For example: `:2,5![cmd]`, `:1,100![cmd]`
+  A list of examples of running commands within vim:  
+  ```
+  # Do word count.
+  :%!wc
+  
+  # 
+  ```
+  For buffer to be used, when a visual selection is active, that will automatically be used as buffer input.
+
+  For reference:  
+  * `%!`: pass current buffer.
+  * `4,!`: line 4 through end of file.
+
+- [x] How to beautify ugly json within vim?  
+  With command `python -m json.tool`:  
+  ```vim
+  :%!python -m json.tool
+  ```
+  This trys to beautify the whole file.  
+  If there is a need to only beautify a range of lines, use following instead:  
+  ```
+  :[start],[end]!python -m json.tool
+  ```
+  To make it even more convenient for your daily work, `nmap` this command to some short cut.  
+  Following nmap maps the first command to `=j` shortcut:  
+  ```
+  nmap =j :%!python -m json.tool<CR>
+  ```
   
 - [x] **How to search within visually selected text in vim ?**  
   For many reasons/occasions, we need to search within a scope, for example within visually selected text in vim. A simple way:  

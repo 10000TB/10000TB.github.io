@@ -14,6 +14,33 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] What does `os.path` do ?  
+  It is for platform-indenpendent manipulation of file names.  
+  "Parse, build, test otherwise work on file names and paths"
+
+- [x] What does `os.path.join` do ?  
+  Combine several path components into a single one.  
+  * When it runs into a absolute path, it ignores all previous ones.
+
+- [x] How create a new file from python at a designated path ?  
+  we can simply use `open` with `w+` option by supplying the full path of the new file to create such file.  
+  ```python
+  In [215]: with open('./test_haha.csv', 'w+') as f:
+       ...:     f.write("test write a file")
+       ...:
+  ```
+
+- [x] How to join two sets in python ?  
+  with `set.union` function. Note that it does not modify original set, but produce a new set with combined set elements.
+  ```
+  In [59]: test = {'1', 'qqw', 'ad'}
+  
+  In [60]: test.union({'tada'})
+  Out[60]: {'1', 'ad', 'qqw', 'tada'}
+  
+  In [61]:
+  ```
+
 - [x] What is `next` founction in python ?  
   It retrieves next item from iterator.  
   
@@ -27,7 +54,7 @@ Comment below to contribute your examples !
   3. On callable object  
   
   An example of user-defined object:  
-  ```
+  ```python
   In [13]: class Test:
       ...:     def __init__(self):
       ...:         self.max = 10

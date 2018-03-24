@@ -397,6 +397,8 @@ Comment below to contribute your examples !
   In [9]: a.find("john")
   Out[9]: -1
   ```
+  Reference: `string.find(s, sub[, start[, end]])` Return the lowest index in s where the substring sub is found such that sub is wholly contained in s[start:end]. Return -1 on failure. Defaults for start and end and interpretation of negative values is the same as for slices.
+
 
 - [x] How to do float division in python ?  
   Example:  

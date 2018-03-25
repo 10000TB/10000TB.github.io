@@ -37,7 +37,11 @@ In summay, built-in data structures are as follow: `list`, `tuple`, `set`, `dict
         `list.reverse()` - In-place reverse elements in the list.  
     2. Use list as stack.  
     3. Use list as Queue.  
-    4. built-in tools:
+    4. built-in tools:  
+        todo
+    5. List comprehension.  
+    6. Nested List comprehension.  
+    
 
 References:  
 1. [Python data structures - docs.python.org](https://docs.python.org/2/tutorial/datastructures.html)

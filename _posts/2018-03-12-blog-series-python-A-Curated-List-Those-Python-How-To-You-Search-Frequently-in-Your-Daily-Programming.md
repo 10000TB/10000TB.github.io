@@ -16,7 +16,7 @@ Comment below to contribute your examples !
 
 - [x] What is `del` keyword in python ?  
   delete local variables and many other things like an element in a list and a key-vlaue pair in a dictionary.  
-  ```
+  ```python
   In [62]: test = [1, 2, 3, 4]
   
   In [63]: del test
@@ -45,6 +45,50 @@ Comment below to contribute your examples !
   
   In [71]:
   ```
+  In addition, `del` can also operate on slices of list.  
+  ```python
+  In [115]: lst
+  Out[115]: [1, 1, 1, 2, 3, 4, 6]
+  
+  In [116]: del lst[:2]
+  
+  In [117]: lst
+  Out[117]: [1, 2, 3, 4, 6]
+  
+  In [118]: 
+  ```
+  Another example within ipython interactive shell:  
+  ```
+  In [123]: dir()[:4]
+  Out[123]: ['In', 'Out', '_', '_100']
+  
+  In [124]: _
+  Out[124]: ['In', 'Out', '_', '_100']
+  
+  In [125]: _
+  Out[125]: ['In', 'Out', '_', '_100']
+  
+  In [126]: _100
+  Out[126]: [1, 2, 3, 4, 6]
+  
+  In [127]: del _100
+  
+  In [128]: _100
+  ---------------------------------------------------------------------------
+  NameError                                 Traceback (most recent call last)
+  <ipython-input-128-5f49044bd438> in <module>()
+  ----> 1 _100
+  
+  NameError: name '_100' is not defined
+  
+  In [129]:
+  ```
+  So we list out first four attributes in current local shell environment, and 
+  then we check out `_100`, which turns out to be a list actively stored in local environment.
+  We can see its a list with 5 integers in it. Then we `del` the entire list. This list reference
+  `_100` no longer exist as a attribute in current local environment as indicated by the error at
+  the end of the output.  
+  
 
 - [x] How to count occurences of a item in a list ?  
   with `list.count()`:  

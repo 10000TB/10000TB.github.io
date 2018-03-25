@@ -690,6 +690,8 @@ TypeError: 'str' object does not support item assignment
   &nbsp;
 
 To curate:  
+- [ ] How to implement customized comparison upon list filled with objects.
+- [ ] Be in the know: python's built-in data structures.
 - [ ] Explore python `collections`
 - [ ] Python's variable scoping ?
 - [ ] The time complexity for python to return the length of a string ?

@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "10000 Terabyte"
-description:	       "An unserious blog that blogs things I think worth sharing or making a point on"
+description:	       "An unserious blog that blogs things I think worth sharing or making a point on  | "
 author:              "@10000TB"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

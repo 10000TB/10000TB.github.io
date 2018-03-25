@@ -14,6 +14,38 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] What is `del` keyword in python ?  
+  delete local variables and many other things like an element in a list and a key-vlaue pair in a dictionary.  
+  ```
+  In [62]: test = [1, 2, 3, 4]
+  
+  In [63]: del test
+  
+  In [64]: test
+  ---------------------------------------------------------------------------
+  NameError                                 Traceback (most recent call last)
+  <ipython-input-64-4e1243bd22c6> in <module>()
+  ----> 1 test
+  
+  NameError: name 'test' is not defined
+  
+  In [65]: test = [2, 3, 4]
+  
+  In [66]: del test[0]
+  
+  In [67]: test
+  Out[67]: [3, 4]
+  
+  In [68]: test = {"a": 1, "b": 2, "c":3}
+  
+  In [69]: del test['a']
+  
+  In [70]: test
+  Out[70]: {'b': 2, 'c': 3}
+  
+  In [71]:
+  ```
+
 - [x] How to count occurences of a item in a list ?  
   with `list.count()`:  
   ```python

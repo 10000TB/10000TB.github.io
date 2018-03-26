@@ -744,4 +744,7 @@ To curate:
 - [ ] What is the error: `TypeError: 'unicode' object does not support item assignment` ?  References:[[1]](https://stackoverflow.com/questions/21416460/typeerror-unicode-object-does-not-support-item-assignment-in-dictionaries) 
 - [ ] How do you run a shell command from python ?  
 - [ ] What is python's native way of listing all files in a directory ? References: [[1]](https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory)
-
+- [ ] What is list comprehension in python ?  
+- [ ] What is nested list comprehension in python ?  https://docs.python.org/2/tutorial/datastructures.html  
+- [ ] What is functional programming , python's functional programming tools ? https://docs.python.org/2/tutorial/datastructures.html  
+- [ ] What is "Unpacking Argument Lists" in python ?  https://docs.python.org/2/tutorial/controlflow.html#tut-unpacking-arguments   

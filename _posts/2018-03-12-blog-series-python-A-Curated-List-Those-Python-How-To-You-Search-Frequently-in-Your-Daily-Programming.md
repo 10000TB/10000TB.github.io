@@ -14,6 +14,46 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to create a deep copy of a dictionary/set/list in python ? 
+  with `deepcopy()` from `copy` module:  
+  ```
+  In [105]: import copy
+  
+  In [106]: dt
+  Out[106]: {'add': 2}
+  
+  In [107]: dt['qad'] = 3
+  
+  In [108]: dt
+  Out[108]: {'add': 2, 'qad': 3}
+  
+  In [109]: dt2 = copy.deepcopy(dt)
+  
+  In [110]: dt2
+  Out[110]: {'add': 2, 'qad': 3}
+  ```
+
+- [x] How to check if a string is a letter ?  
+  with `str.isalpha()` - check if all characters in a string is alphabetic:  
+  ```python
+  In [84]: 'a'.isalpha()
+  Out[84]: True
+  
+  In [85]: '1'.isalpha()
+  Out[85]: False
+  
+  In [86]: '_'.isalpha()
+  Out[86]: False
+  
+  In [87]: '1.23a'.isalpha()
+  Out[87]: False
+  
+  In [88]: ''.isalpha()
+  Out[88]: False
+  
+  In [89]:
+  ```
+
 - [x] What is `del` keyword in python ?  
   delete local variables and many other things like an element in a list and a key-vlaue pair in a dictionary.  
   ```python

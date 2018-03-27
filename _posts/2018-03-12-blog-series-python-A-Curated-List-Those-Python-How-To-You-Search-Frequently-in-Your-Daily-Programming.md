@@ -14,6 +14,22 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to use python `lambda` function ?  
+  `lambda` is the keyword in python to define anonymous function. In comparison, we usually define a named function with `def` keyword.  
+  It can take any number of arguments, but only one expression.  
+  Lambda function is usually used when there is a need for a nameless functionf or a short period of time. In addition, it is usually used in a function with higher order, a function that takes another function as an argument. Lambda functions are used along with built-in functions like `filter()`, `map()`.  
+  ```
+  In [14]: lst = [1, 2, None, 12, 22]
+  
+  In [15]: filter(lambda x: x != None, lst)
+  Out[15]: [1, 2, 12, 22]
+  
+  In [16]: r = filter(lambda x: x != None, lst)
+  
+  In [17]: type(r)
+  Out[17]: list
+  ```
+
 - [x] How to write a short expression to get previous number for num greater than 0, and zero as previous for zero itself ?  
   This is a awkward question I made up, but I would like to share this concise and pretty expression:  
   ```

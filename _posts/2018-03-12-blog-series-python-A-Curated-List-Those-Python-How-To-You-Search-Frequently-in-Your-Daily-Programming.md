@@ -14,6 +14,27 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] what is `bisect` and how to use it in python ?  
+  with `bisect` within `bisect` module, we can find a position in a list to insert a new number so that we can still keep the list sorted.  
+  
+  ```
+  In [1]: lst = [1,2, 6, 7, 10]
+  
+  In [2]: import bisect
+  
+  In [3]: bisect.bisect(lst, 6)
+  Out[3]: 3
+  
+  In [4]: bisect.bisect_left(lst, 6)
+  Out[4]: 2
+  
+  In [5]: bisect.bisect_right(lst, 6)
+  Out[5]: 3
+  
+  In [6]:
+  ```
+  By default, if the number to be inserted already exists in the list, it will return right most position. In comparison, `bisect_left` return left most position for such scenario. `bisect_right` works similarly as `bisect`.   
+
 - [x] How to use `filter` in python ?  
   It takes a filter founction that accept each item in the iterable and return true of false based on its function logic. All items that returns with true will be put into the list returned by `filter`  
   ```python

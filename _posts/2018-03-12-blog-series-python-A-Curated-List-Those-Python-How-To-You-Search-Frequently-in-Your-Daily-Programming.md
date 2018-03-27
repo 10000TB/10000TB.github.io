@@ -14,6 +14,25 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to write a short expression to get previous number for num greater than 0, and zero as previous for zero itself ?  
+  This is a awkward question I made up, but I would like to share this concise and pretty expression:  
+  ```
+  In [92]: i = 0
+  
+  In [93]: i - (i>0)
+  Out[93]: 0
+  
+  In [94]: i = 1
+  
+  In [95]: i - (i>0)
+  Out[95]: 0
+  
+  In [96]: i = 2
+  
+  In [97]: i - (i>0)
+  Out[97]: 1
+  ```
+
 - [x] what is `bisect` and how to use it in python ?  
   with `bisect` within `bisect` module, we can find a position in a list to insert a new number so that we can still keep the list sorted.  
   

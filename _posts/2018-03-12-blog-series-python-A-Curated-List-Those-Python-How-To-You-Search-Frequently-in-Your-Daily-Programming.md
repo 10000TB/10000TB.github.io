@@ -14,6 +14,12 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] You can multiple assignment in one line in python ?  
+  Yes, like:  
+  ```
+  a = b = c = 1
+  ```
+
 - [x] What is/How to use `Counter` from `collections` ?  
   It is a container that keeps track of how many times equivalent values are added.  
   Eample usage:  

@@ -14,6 +14,23 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] How to use `filter` in python ?  
+  It takes a filter founction that accept each item in the iterable and return true of false based on its function logic. All items that returns with true will be put into the list returned by `filter`  
+  ```python
+  In [81]: def f(s):
+    ...:     if s == '-':
+    ...:         return False
+    ...:     return True
+    ...:
+
+  In [82]: str_ = "asdasd-ad-qasd-asd-a"
+  
+  In [83]: filter(f,str_)
+  Out[83]: 'asdasdadqasdasda'
+  
+  In [84]: 
+  ```
+
 - [x] You can multiple assignment in one line in python ?  
   Yes, like:  
   ```

@@ -14,6 +14,171 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] What is/How to use `Counter` from `collections` ?  
+  It is a container that keeps track of how many times equivalent values are added.  
+  Eample usage:  
+  ```
+  In [25]: from collections import Counter
+  
+  In [26]: c = Counter("adadsqwjenkads")
+  
+  In [27]: c
+  Out[27]:
+  Counter({'a': 3,
+           'd': 3,
+           'e': 1,
+           'j': 1,
+           'k': 1,
+           'n': 1,
+           'q': 1,
+           's': 2,
+           'w': 1})
+  
+  In [28]: c1 = Counter({"a": 7, "v":12, "ads":233, "asd":12312})
+  
+  In [29]: c1
+  Out[29]: Counter({'a': 7, 'ads': 233, 'asd': 12312, 'v': 12})
+  
+  In [30]:
+  
+  In [30]: c1['a']
+  Out[30]: 7
+  
+  In [31]: c1['ads']
+  Out[31]: 233
+  
+  In [32]: c1['newkey']
+  Out[32]: 0
+  
+  In [33]:
+  ```
+  Once a `Counter` is populated, its values can be retrieved with dictionary API.  
+  However, if a key does not exit, it will return zero as count instead of throwing KeyError
+  like dictionary do for non-existent key.  
+  `Counter.elements()` produces an iterator that return all items known to one Counter.  
+  Note: items with count less than zero are not included.  
+  
+  `most_common` to produce a sequence of n most frequently encountered input values and their respective counts:  
+  ```
+  In [36]: c
+  Out[36]:
+  Counter({'a': 3,
+           'd': 3,
+           'e': 1,
+           'j': 1,
+           'k': 1,
+           'n': 1,
+           'q': 1,
+           's': 2,
+           'w': 1})
+  
+  In [37]: c.most_common(2)
+  Out[37]: [('a', 3), ('d', 3)]
+  
+  In [38]: c.most_common(1)
+  Out[38]: [('a', 3)]
+  
+  In [39]: c.most_common(2)
+  Out[39]: [('a', 3), ('d', 3)]
+  
+  In [40]: c.most_common(3)
+  Out[40]: [('a', 3), ('d', 3), ('s', 2)]
+  
+  In [41]: c.most_common(4)
+  Out[41]: [('a', 3), ('d', 3), ('s', 2), ('e', 1)]
+  
+  In [42]: c.most_common(5)
+  Out[42]: [('a', 3), ('d', 3), ('s', 2), ('e', 1), ('k', 1)]
+  ```
+  Counter can be populated via `update` method. The count values are increased based on new data, rather than replaced.  
+
+  ```python
+  In [43]: c
+  Out[43]:
+  Counter({'a': 3,
+           'd': 3,
+           'e': 1,
+           'j': 1,
+           'k': 1,
+           'n': 1,
+           'q': 1,
+           's': 2,
+           'w': 1})
+  
+  In [44]: c.update("a")
+  
+  In [45]: c
+  Out[45]:
+  Counter({'a': 4,
+           'd': 3,
+           'e': 1,
+           'j': 1,
+           'k': 1,
+           'n': 1,
+           'q': 1,
+           's': 2,
+           'w': 1})
+  
+  In [46]: c.update({'a':3, 'd':2})
+  
+  In [47]: c
+  Out[47]:
+  Counter({'a': 7,
+           'd': 5,
+           'e': 1,
+           'j': 1,
+           'k': 1,
+           'n': 1,
+           'q': 1,
+           's': 2,
+           'w': 1})
+  
+  In [48]:
+  ```
+
+  In addition, `Counter` supports arithmetic operations to aggregate results: `+`, `-`, `&`, `|`  
+  ```
+  In [64]: c
+  Out[64]:
+  Counter({'a': 1,
+           'd': 5,
+           'e': 1,
+           'hahah': 0,
+           'j': 1,
+           'k': 1,
+           'n': 1,
+           'q': 1,
+           's': 2,
+           'w': 1})
+  
+  In [65]: c1
+  Out[65]: Counter({'a': 7, 'ads': 233, 'asd': 12312, 'v': 12})
+  
+  In [66]: c + c1
+  Out[66]:
+  Counter({'a': 8,
+           'ads': 233,
+           'asd': 12312,
+           'd': 5,
+           'e': 1,
+           'j': 1,
+           'k': 1,
+           'n': 1,
+           'q': 1,
+           's': 2,
+           'v': 12,
+           'w': 1})
+  
+  In [67]:
+  ```
+
+  Tip:  
+  We can also directly modify count for a key. (if the key exists, existing value is overriden; If it does not exist, a new key with the count is added into counter)
+
+  ```python
+  c['haha']  = 100
+  ```
+
 - [x] How to create a deep copy of a dictionary/set/list in python ? 
   with `deepcopy()` from `copy` module:  
   ```

@@ -14,6 +14,20 @@ Often times, when we work with different languages, our attentionn is spreaded a
 Bookmark this page for your references !  
 Comment below to contribute your examples !
 
+- [x] What is shallow copy as versus deepcopy in python?  
+  In python, assignment does not create object, it creats bindings between a target and an object. "For collections that are mutable or contain mutalble items, a copy is sometimes needed" to apply changes on one and leave the other untouched.  
+  First, shallow and deep copy are only relevant for compound objects - object that contains other objects, list, class instances, set, etc, dict, etc.
+  The difference betweem shallow and deep copy:  
+
+  * `shallow copy` - create a new compound object, and insert references to original object items to the new compount object.  
+  * `deep copy` - create a new compount object, and recursively insert copies of original object items into new compount object.  
+  
+  note that:  
+  * `dict.copy` returns a shallow copy.  
+  * list `slicing` like `lst[:]` return a shallow copy.  
+  * a class can define its own copy implementation by defining `__copy__()` and `__deepcopy__()`.  
+
+
 - [x] How to use python `lambda` function ?  
   `lambda` is the keyword in python to define anonymous function. In comparison, we usually define a named function with `def` keyword.  
   It can take any number of arguments, but only one expression.  

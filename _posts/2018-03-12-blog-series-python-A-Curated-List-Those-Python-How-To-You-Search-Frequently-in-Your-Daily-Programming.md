@@ -20,7 +20,9 @@ Comment below to contribute your examples !
   The difference betweem shallow and deep copy:  
 
   * `shallow copy` - create a new compound object, and insert references to original object items to the new compount object.  
+  `copy.copy(x)`  
   * `deep copy` - create a new compount object, and recursively insert copies of original object items into new compount object.  
+  `copy.deepcopy(x)`  
   
   note that:  
   * `dict.copy` returns a shallow copy.  
@@ -1032,6 +1034,7 @@ TypeError: 'str' object does not support item assignment
   &nbsp;
 
 To curate:  
+- [ ] What is `pickle` module in python ?  
 - [ ] How to implement customized comparison upon list filled with objects.
 - [ ] Be in the know: python's built-in data structures.
 - [ ] Explore python `collections`

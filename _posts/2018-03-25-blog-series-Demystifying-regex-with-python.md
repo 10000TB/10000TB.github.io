@@ -35,7 +35,12 @@ To summarize regular expression, one should first introduce `metacharacters` and
 
 - [x] Repeating.  
   With character class, you can now match any character. But that is not enough to solve practical problems as there are scenarios where we need to match repeatitions of characters. Then how to specify matching pattern need to be resolved. In regular expression, ways to specify repeatitions are:  
-  * 
+  `*` - zero or more.
+  `+` - one or more.
+  `?` - zero or one.
+  ``
+
+
 
 
 Reference:  

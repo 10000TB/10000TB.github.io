@@ -124,6 +124,123 @@ To summarize regular expression, one should first introduce `metacharacters` and
   marked by `(` and `)`.  
   reteievd by `m.groups()`, `m.group(1)`( with group number as arg)
 
+  Notes:  
+  1. Identify group by its opening paranthesis since groups are numered from left to right.  
+  2. group zero is by default for the full string matched.  
+  3. groups() return all groups except group zero.  
 
+- [x] Non-capturing and named groups.  
+  Perl supports `(?...)` as ex extehsion syntac as it for sure wasn't being used by any old regular expression since it is considered a syntax error.  
+  Python `re` module adds a `P` after question mark to denote that it is an extension specific to python.  
+  For example:  
+  `(?P<name>...)` represents a named group.  
+  `(?P=name)` back reference to a named group.  
+  
+  **non-capturing group**  
+  with `(?:...)` where `...` can be any other regular expression.  
+  When we are interested in collecting part of a regular expression, but aren't interested in the contents of it.  
+ 
+  ```python
+  In [1]: import re
+  
+  In [2]: p = re.compile(r'[abc]+')
+  
+  In [3]: m = p.match("aaaaaac")
+  
+  In [4]: m.groups()
+  Out[4]: ()
+  
+  In [5]: p = re.compile(r'([abc]+)')
+  
+  In [6]: m = p.match("aaaaaac")
+  
+  In [7]: m.groups()
+  Out[7]: ('aaaaaac',)
+  
+  In [8]: m.group(0, 1)
+  Out[8]: ('aaaaaac', 'aaaaaac')
+  
+  In [9]: p = re.compile(r'(?:[abc]+)')
+  
+  In [10]: m = p.match("aaaaaac")
+  
+  In [11]: m.groups()
+  Out[11]: ()
+  
+  In [12]: m.group(0, 1)
+  ---------------------------------------------------------------------------
+  IndexError                                Traceback (most recent call last)
+  <ipython-input-12-f65d9b02528f> in <module>()
+  ----> 1 m.group(0, 1)
+  
+  IndexError: no such group
+  
+  In [13]: m.group(0)
+  Out[13]: 'aaaaaac'
+  
+  In [14]:
+  ```
+
+  Notes:  
+  1. There is no difference between a capturing grouping and non-capturing grouping except that non-capturing group does not return captured content.  
+  2. There is no performance difference between a capturing group and non-capturing group.  
+  3. With this we can add a new group without how existing groups are numbered.  
+
+  **named group**  
+
+  ```python
+  In [21]: p = re.compile(r"(?P<alpha>[a-zA-Z]+)(?P<num>[0-9]+)(?P<other>[#$!!@#@]*)(?P=alpha)")
+  
+  In [22]: m = p.match("iamdavid01234!iam")
+  
+  In [23]: m
+  
+  In [24]: print m
+  None
+  
+  In [25]: m = p.match("iamdavid01234!iamdavid")
+  
+  In [26]: print m
+  <_sre.SRE_Match object at 0x1032a8880>
+  
+  In [27]: m.groups()
+  Out[27]: ('iamdavid', '01234', '!')
+  
+  In [28]:
+  ```
+  
+  The `(?P=name)` indicates that content matched by the group called `name` should also be matched at current location.  
+ 
+- [x] Lookahead Assertions.  
+  With lookahead assertions, we can tell match engine only move forward for further matching when assertion is successfull or failed.  
+  
+  `(?=...)` - Positive lookahead.  
+  It will succeed if contained regular expression `...` match at the current location.  Matching engine will not continue moving further after that, but start matching again from current position. If assertion failed, the whole match will fail immediately. So the assertion here is really like an `if` condition to tell matching engine to move forward or not.  
+  
+  `(?!...)` - Negative lookahead.  
+  
+  For example, to match a file name, and exclude file suffix like `bat`, and `exe`, `csv`  e can write following expression:  
+  ```python
+  .*[.](?!bat$|exe$|csv$)[^.]*$
+  ```
+  So for this regular expression, when it matches til the `.`(dot), matching engine will only move forward when the suffix is not ant of the `bat`, `exe`, or `csv`.  
+ 
+- [x] Modify strings.  
+  split strings into a list. Split wherever there is a match.  
+  `pattern.split(string[. maxsplit=0])`  
+
+  search and replace(left-most non-overlapping ocurrences of RE).  
+  `pattern.sub(replacement, string[, count=0])`  
+  
+  (`subn()` does the same thing, but return an extra count of total replacements together with first string in a tuple.)
+
+  references: https://docs.python.org/2.7/howto/regex.html#search-and-replace
+
+
+- [x] Common problems of regex.  
+  reference: https://docs.python.org/2.7/howto/regex.html#common-problems
+ 
+
+ 
 Reference:  
 1. https://docs.python.org/2.7/howto/regex.html  

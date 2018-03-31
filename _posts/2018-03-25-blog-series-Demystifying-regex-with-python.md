@@ -238,7 +238,51 @@ To summarize regular expression, one should first introduce `metacharacters` and
 
 
 - [x] Common problems of regex.  
+  **Greedy vs Non-greedy:**  
+    Use `*?`, `+?`, `??`, or `{m,n}?` as non-greedy qualifier to match as little as possible.  
+ 
+  **Use `re.VERBOSE` during compilation to enable verbose writing of regular expression.**  
+  regular expression can be very compact due its syntax is based on all these metacharacters, parathesis, brackets. Given a regular
+  expression of moderate complexity, it can therefore be hard to read.  
+  With `re.VERBOSE`, we can write regex with comments.
+
+  ```python
+  In [5]: p = re.compile(r"""
+    ...:    ^
+    ...:   # match from beginning.
+    ...:
+    ...:   (?P<name>[a-zA-Z0-9]+)
+    ...:   # name group: match more than one alphanumeric letter.
+    ...:
+    ...:   (?=@)
+    ...:   # look ahead assert that there is one @ before continuing.
+    ...:
+    ...:   @(?P<provider>[a-z]+)
+    ...:   # match email provide name.
+    ...:
+    ...:   .
+    ...:   # match a dot.
+    ...:
+    ...:   (?P<domainsuffix>com|net|cn|org|gov)
+    ...:   # match a TLD name.
+    ...:
+    ...:   """, re.VERBOSE) 
+
+  In [6]: m = p.match("xuehaohu@gmail.com")
+  
+  In [7]: print m.groups()
+  ('xuehaohu', 'gmail', 'com')
+  
+  In [8]: m = p.match("xuehaohu#gmail.com")
+  
+  In [9]: print m
+  None
+  
+  In [10]:
+  ```
+ 
   reference: https://docs.python.org/2.7/howto/regex.html#common-problems
+  
  
 
  

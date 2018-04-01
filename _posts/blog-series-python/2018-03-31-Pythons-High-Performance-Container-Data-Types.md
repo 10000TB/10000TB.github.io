@@ -74,8 +74,7 @@ As of `2.7`, there are now five useful things in `collections`: `namedtuple()`, 
   Both of them does not replace, but subtracting or adding.  
   * We can also do mathmatical operations on counter object: `+`, `-`, `&`, `|`.  
 
-- [x] ****
-
+- [x] (TODO: 10000tb) more notes on rest of the container types within `collections`.  
 
 
 Reference(s):  

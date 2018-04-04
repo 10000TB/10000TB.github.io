@@ -2,6 +2,7 @@
 layout: "post"
 title: "Summarize them before forgetting: working with files/folders in python"
 comments: true
+publish: False
 categories: python
 tags: [blogseries, python, summarize, dummynotes]
 image: "blog-series-python/blog-series-davids-learning-notes-as-a-python-dummy.png"

@@ -16,6 +16,7 @@ There are many times when I saw interesting/inspiring/refreshing quotes and the 
   
 The list go from here, and I will make commentary notes as needed.    
   
+> 卸下一些些坚持，总会发现意外的惊喜。
 
 > Potential just means that you ain't done it yet  -  Darrell Royal  
   

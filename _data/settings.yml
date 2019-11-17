@@ -7,7 +7,7 @@ google-ID: 'UA-112805664-1'
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Miscellaneous', folder: 'pages', file: 'miscellaneous.html'}
+#- {name: 'Miscellaneous', folder: 'pages', file: 'miscellaneous.html'}
 - {name: 'OpenSource', folder: 'pages', file: 'opensource.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

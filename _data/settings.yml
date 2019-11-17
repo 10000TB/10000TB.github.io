@@ -13,9 +13,6 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/xuehaohu'}
-- {icon: 'facebook', link: 'https://www.facebook.com/xuehao.hu.9'}
-- {icon: 'instagram', link: 'https://www.instagram.com/dav.hu/'}
-- {icon: 'envelope', link: 'mailto:xuehao.hu@gmail.com'}
 - {icon: 'rss-square', link: 'rss-feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 

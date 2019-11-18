@@ -13,8 +13,8 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/xuehaohu'}
+- {icon: 'github', link: 'https://github.com/10000TB'}
 - {icon: 'rss-square', link: 'rss-feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:

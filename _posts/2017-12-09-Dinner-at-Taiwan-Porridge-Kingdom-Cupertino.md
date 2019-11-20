@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "十二月九日在小刘清粥Cupertino分店独自晚餐"
+title: "十二月九日在小刘清粥"
 comments: true
 categories: gourmet
 tags: [gourmet, write]

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "我自横刀向天笑"
+title: "老赵厨房 送别 迪一"
 comments: true
 categories: gourmet
 tags: [gourmet, write]

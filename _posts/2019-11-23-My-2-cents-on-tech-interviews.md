@@ -4,6 +4,7 @@ title: "My 2 cents on tech interviews - methodologies, outcome, and candidate ex
 comments: true
 categories: tech
 tags: [tech, interview, opinion] 
+image: tech-companies-image.jpg
 ---
 
 I came across an article of a candidate's experience with interviewing with Google. The impression I got from his words is that he's got great experience and he will still feel happy and lucky to have interviewed with google even he got rejected eventually.
@@ -12,7 +13,7 @@ His experience sheds light on the general positive recruiting experience from Go
 
 Disclaimer - In the light of how things - all things - generally work, interview is broad topic. Below is a brief (read lazy) summary of whats on top of my mind on this subject. In particular, this is around tech interviews. More narrowly, it is around tech roles like SWE (Software Engineer), data engineers, data science, analyst, etc.
 
-* methodologies
+## methodologies
 
 what questions to ask: Algorithmic questions  
 what to evaluate: General Congnitive Ability  
@@ -29,6 +30,26 @@ A few implications of no standardized interview process:
 
 4. It cause people lost faith in company's engineering brand. Good expect company to only hiring good people, period.
 
-* outcome
+## outcome
 
 Given standardized interview process, a statistically good result will be achieved. That is to say, overall, companies will be able to hiring good people to do the work. It does not guarantee that it won't miss any good talent, or some of the exteme talents. Probably, it will miss out. But the point is that companies' intention is not to bruce forcefully find all good talents, and miss no single one. They just need a subset of them to do the work.
+
+This kind of interview ends up explicitly asking people to prepare / brush up their CS foundementals before interview. In some sense, the interview also measures how hard a person want to join the company of interest.
+
+## candidate experience
+
+My impression is that different companies have different strategies on tech recruiting and often drastically different interview process. That often comes down to different experience to each individual candidate.
+
+I have heard, and quote:
+
+1. "Amazon hiring is chaotic; Your life will be miserable; You will overwork"
+
+2. "Facebook pays more"
+
+3. "I want to work for Google"
+
+For each individual company, in the past few years, I have seen they update their hiring specifics from time to time. Thereforce, one time quotes like above may not reflect what their hiring experience is really like. But in general, the overall interviewing experience rarely change much, and is quite persistent form what I can see.
+
+IMO, each individual interview affects the overall candidate experience. How interviewers apprach candidates, how candidates feel they are treated by the interviewers, how kind is interviewers, how organized is the process, is the interviewer cool ? ...
+
+... to be continued.

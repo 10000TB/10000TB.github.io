@@ -67,7 +67,7 @@ To achieve those, I have seen different people approach it differently. Some pra
 (Design part)
 * Speak what you know - Preferably, you can drive the process, persuade people with solid points, bring a consensus on to the table.
 
-Design often comes with various depths. Those who have worked in their field for a long time naturally and easily can nail this part. Candidates with less experience, at leat from what I have seen, are less likely to be asked same questions. Interviewer/companies can easily fail you if they want to. Typically, when you are interviewing for the position that is appropriate per your experience, appropriate problems are used to assess all candidates in the pipeline. I don't believe all
+Design often comes with various depths. Those who have worked in their field for a long time naturally and easily can nail this part. Candidates with less experience, at least from what I have seen, are less likely to be asked same questions. Interviewer/companies can easily fail you if they want to. Typically, when you are interviewing for the position that is appropriate per your experience, appropriate problems are used to assess all candidates in the pipeline. I don't believe all
 companies follow this though, which is likely true, especially in start-ups where processes can get messy sometimes.
 
 ### Communication  

@@ -56,14 +56,14 @@ IMO, each individual interview affects the overall candidate experience. How int
 
 My experience tells me that you will likely succeed in those interviews if you:
 
-#### Technical competence  
+### Technical competence  
 
 * You are VERY familiar with CS fundamentals - well-known algorithms, frequently used data structures.
 * Close to bug-free coding ability on shared online coding platform & whiteboard.
 
 To achieve those, I have seen different people approach it differently. Some praticed solving a lot - I mean a lot - of those algorithmic problems. Some other comes with phD background, and are very good at them in general, and they simply pratice small amount of such problems for keep their "手感". I have also seen people spend thousands of dollars to take those 3rd party algorithm classes designed specifically for tech interviews.
 
-#### Communication  
+### Communication  
 
 (During interview)
 * You don't need to please interviewers. Preferably, you stand your ground and proactively & kindly clarify when there is a clear miscommunication.

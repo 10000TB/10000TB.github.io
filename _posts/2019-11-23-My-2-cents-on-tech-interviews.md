@@ -58,10 +58,17 @@ My experience tells me that you will likely succeed in those interviews if you:
 
 ### Technical competence  
 
+(Coding part)
 * You are VERY familiar with CS fundamentals - well-known algorithms, frequently used data structures.
 * Close to bug-free coding ability on shared online coding platform & whiteboard.
 
 To achieve those, I have seen different people approach it differently. Some praticed solving a lot - I mean a lot - of those algorithmic problems. Some other comes with phD background, and are very good at them in general, and they simply pratice small amount of such problems for keep their "手感". I have also seen people spend thousands of dollars to take those 3rd party algorithm classes designed specifically for tech interviews.
+
+(Design part)
+* Speak what you know - Preferably, you can drive the process, persuade people with solid points, bring a consensus on to the table.
+
+Design often comes with various depths. Those who have worked in their field for a long time naturally and easily can nail this part. Candidates with less experience, at leat from what I have seen, are less likely to be asked same questions. Interviewer/companies can easily fail you if they want to. Typically, when you are interviewing for the position that is appropriate per your experience, appropriate problems are used to assess all candidates in the pipeline. I don't believe all
+companies follow this though, which is likely true, especially in start-ups where processes can get messy sometimes.
 
 ### Communication  
 
@@ -72,5 +79,10 @@ To achieve those, I have seen different people approach it differently. Some pra
 * You are not wordy. Preferably, you talk just right amount of time during each interaction, no more, no less, just right amount.
 * You don't have to be humorous. But, if you can crack a joke, pls do so. Subconsciously, people favor and want to work with those that they like.
 * You are not an asshole. Preferably, you don't argue everytime over anything just to prove yourself and your "I am smart" ass ego. Ideally, you are sympathetic, you listen carefully for what others have to say, and recognize the fact that you don't know sth when that is true.
+* You communicate. Preferably, you drive the process, you ASK before jumping in.
 
-... to be continued
+### Experience
+
+Interview at as many places as you can. Likely you will fail quite a few of them. After each interview, you can feel you subtly have a more mature view of interview process, and you can gradually identiy where you did well and where not. You will learn from them.
+
+Good luck

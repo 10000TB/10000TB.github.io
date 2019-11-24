@@ -11,7 +11,7 @@ I came across an article of a candidate's experience with interviewing with Goog
 
 His experience sheds light on the general positive recruiting experience from Google. I have seen similar testimonials before here and there. I myself echo that from my experience. I then burst with lot of thoughts around tech interviews. I have been on both sides of interviews and I have done decent amount of interviews on each side. It maybe worth putting down a few points.
 
-Disclaimer - In the light of how things - all things - generally work, interview is broad topic. Below is a brief (read lazy) summary of whats on top of my mind on this subject. In particular, this is around tech interviews. More narrowly, it is around tech roles like SWE (Software Engineer), data engineers, data science, analyst, etc.
+>Disclaimer - In the light of how things - all things - generally work, interview is broad topic. Below is a brief (read lazy) summary of whats on top of my mind on this subject. In particular, this is around tech interviews. More narrowly, it is around tech roles like SWE (Software Engineer), data engineers, data science, analyst, etc.
 
 ## methodologies
 

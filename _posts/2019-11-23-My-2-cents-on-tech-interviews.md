@@ -85,4 +85,17 @@ companies follow this though, which is likely true, especially in start-ups wher
 
 Interview at as many places as you can. Likely you will fail quite a few of them. After each interview, you can feel you subtly have a more mature view of interview process, and you can gradually identiy where you did well and where not. You will learn from them.
 
-Good luck
+### Resources that maybe useful
+
+There are a lot of resources online available. Many companies often send out their compiled preparation materials. Below is a list of resources that I have used and found helpful.
+
+Algorithm coding  
+* https://leetcode.com/ - You can filter problems by companies, problem type, data structures. Downside is that you need to pay for some of the features and problems. To give a sense my preparation - by the time I was interviewing with FB & Google, I finished ~600 problems overall (shamelessly posting my profile page here https://leetcode.com/10000tb/).  
+* https://www.geeksforgeeks.org/ - I mainly take references from this side. Be cautious that some content on this side is not high quality. But overall, it has a lot of good and helpful code snippets.
+
+Design
+* Google it ?
+
+In addition, there is a famous book called sth like "crack the technical interview". I heard many people mentioned it and there is good amount of good mentions online as well. It might also be worth checking out. But I have not read any bit of that book.
+
+Good luck.

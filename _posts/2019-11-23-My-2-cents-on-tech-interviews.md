@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "My 2 cents on tech interviews - methodologies, outcome, and candidate experience in a holistic view"
+title: "My 2 cents on tech interviews - methodologies, outcome, candidate experience, and tips in a non-holistic view"
 comments: true
 categories: tech
 tags: [tech, interview, opinion] 
@@ -42,14 +42,35 @@ My impression is that different companies have different strategies on tech recr
 
 I have heard, and quote:
 
-1. "Amazon hiring is chaotic; Your life will be miserable; You will overwork"
+1. "Amazon hiring is chaotic; Your life will be miserable; You will overwork; But their stocks have hugh growth"
 
-2. "Facebook pays more"
+2. "Facebook pays more; They move fast; They promote faster; FB is catching up Google"
 
-3. "I want to work for Google"
+3. "I want to work for Google; Google is great; Growth maybe slow"
 
 For each individual company, in the past few years, I have seen they update their hiring specifics from time to time. Thereforce, one time quotes like above may not reflect what their hiring experience is really like. But in general, the overall interviewing experience rarely change much, and is quite persistent form what I can see.
 
 IMO, each individual interview affects the overall candidate experience. How interviewers apprach candidates, how candidates feel they are treated by the interviewers, how kind is interviewers, how organized is the process, is the interviewer cool ? ...
 
-... to be continued.
+## tips
+
+My experience tells me that you will likely succeed in those interviews if you:
+
+#### Technical competence  
+
+* You are VERY familiar with CS fundamentals - well-known algorithms, frequently used data structures.
+* Close to bug-free coding ability on shared online coding platform & whiteboard.
+
+To achieve those, I have seen different people approach it differently. Some praticed solving a lot - I mean a lot - of those algorithmic problems. Some other comes with phD background, and are very good at them in general, and they simply pratice small amount of such problems for keep their "手感". I have also seen people spend thousands of dollars to take those 3rd party algorithm classes designed specifically for tech interviews.
+
+#### Communication  
+
+(During interview)
+* You don't need to please interviewers. Preferably, you stand your ground and proactively & kindly clarify when there is a clear miscommunication.
+* You know what you are talking about. Preferably, you are assertive and persuasive.
+* You can comfortablely make a point. Preferably, you are articulate when you get across your point.
+* You are not wordy. Preferably, you talk just right amount of time during each interaction, no more, no less, just right amount.
+* You don't have to be humorous. But, if you can crack a joke, pls do so. Subconsciously, people favor and want to work with those that they like.
+* You are not an asshole. Preferably, you don't argue everytime over anything just to prove yourself and your "I am smart" ass ego. Ideally, you are sympathetic, you listen carefully for what others have to say, and recognize the fact that you don't know sth when that is true.
+
+... to be continued

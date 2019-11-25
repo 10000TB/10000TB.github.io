@@ -121,7 +121,7 @@ companies follow this though, which is likely true, especially in start-ups wher
 
 ### Experience
 
-Interview at as many places as you can. Likely, you will fail quite a few of them when you are new to such interviews. After each interview, you can feel you subtly have a more mature view of interview process, and you can gradually identiy where you did well and where not. You will learn from them.
+Interview at as many places as you can. Likely, you will fail quite a few of them when you are new to such interviews. After each interview, you can feel you subtly have a more mature view of interview process, and you can gradually identify where you did well and where not. You learn from them. You eventually get extremely good at those interviews and land offers from all over the places.
 
 ### Resources that maybe useful
 
@@ -132,7 +132,7 @@ Algorithm coding
 * https://www.geeksforgeeks.org/ - I mainly take references from this site. Be critical & cautious when you consume the content on this site, I find some content misleading. But overall, it has a lot of good and helpful code snippets.
 
 Design
-* Google it ?
+* Google it ? - There are a ton of materials and popular design questions online.
 
 In addition, there is a famous book called sth like "crack the technical interview". I heard many people mentioned it and there is good amount of good mentions online as well. It might also be worth checking out. But I have not read any bit of that book.
 

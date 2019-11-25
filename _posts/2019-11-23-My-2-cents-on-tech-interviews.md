@@ -91,7 +91,7 @@ There are a lot of resources online available. Many companies often send out the
 
 Algorithm coding  
 * https://leetcode.com/ - You can filter problems by companies, problem type, data structures. Downside is that you need to pay for some of the features and problems. To give a sense my preparation - by the time I was interviewing with FB & Google, I finished ~600 problems overall (shamelessly posting my profile page here https://leetcode.com/10000tb/).  
-* https://www.geeksforgeeks.org/ - I mainly take references from this side. Be cautious that some content on this side is not high quality. But overall, it has a lot of good and helpful code snippets.
+* https://www.geeksforgeeks.org/ - I mainly take references from this site. Be critical & cautious when you consume the content on this site, I find some content misleading. But overall, it has a lot of good and helpful code snippets.
 
 Design
 * Google it ?

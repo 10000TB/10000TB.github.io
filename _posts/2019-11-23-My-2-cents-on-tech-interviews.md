@@ -73,7 +73,7 @@ companies follow this though, which is likely true, especially in start-ups wher
 ### Communication  
 
 (During interview)
-* You don't need to please interviewers. Preferably, you stand your ground and proactively & kindly clarify when there is a clear miscommunication.
+* You don't need to please interviewers. Preferably, you stand your ground and proactively clarify it when there is a miscommunication.
 * You know what you are talking about. Preferably, you are assertive and persuasive.
 * You can comfortablely make a point. Preferably, you are articulate when you get across your point.
 * You are not wordy. Preferably, you talk just right amount of time during each interaction, no more, no less, just right amount.

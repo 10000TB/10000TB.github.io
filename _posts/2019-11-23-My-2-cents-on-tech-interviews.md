@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "My 2 cents on tech interviews - methodologies, outcome, candidate experience, and tips in a non-holistic view"
+title: "My 2 cents on tech interviews in a non-holistic view - methodologies, outcome, candidate experience, and tips"
 comments: true
 categories: tech
 tags: [tech, interview, opinion] 
@@ -11,14 +11,32 @@ I came across an article of a candidate's experience with interviewing with Goog
 
 His experience sheds light on the general positive recruiting experience from Google. I have seen similar testimonials before here and there. I myself echo that from my experience. I then burst with lot of thoughts around tech interviews. I have been on both sides of interviews and I have done decent amount of interviews on each side. It maybe worth putting down a few points.
 
->Disclaimer - In the light of how things - all things - generally work, interview is broad topic. Below is a brief (read lazy) summary of whats on top of my mind on this subject. In particular, this is around tech interviews. More narrowly, it is around tech roles like SWE (Software Engineer), data engineers, data science, analyst, etc.
+>Disclaimer - In the light of how things - all things - generally work, interview is broad topic. Below is a brief (read lazy) summary of whats on top of my mind on this subject. In particular, this is around tech interviews. More narrowly, it is around tech roles like SWE (Software Engineer), data engineers, data science, or similar that asks for coding in interviews.
 
 ## methodologies
 
-what questions to ask: Algorithmic questions  
-what to evaluate: General Congnitive Ability  
+### standardized
 
-There is a good number of tech companies following this methodology - using algorithmic coding questions during tech interviews. Suprisingly, this is not just for new grads, I have seen people with more than 10 years of experience been put into same process of doing this kind of CS fundamentals questions. The general motivation, I think and saw other people agree, is to enforce a standard high bar to ensure recruiting quality.  
+Standardized interviews of algorithmic questions.
+
+Typically, it starts with a phone screening, one engineer shares an online coding screen with
+candidate, where a candidate is asked to write code. The candidate will be moved on to onsite if
+he/she/? did well, and onsite takes forms of in-person whiteboard coding, system design, and sometimes
+behavior. In principle, a full onsite takes combo of these 3 types of interviews, and often weighed
+towards one particular type for each level of hire needs. Pratically, a SWE interview, say an onsite
+of 5 rounds, can consist of 4 algorithmic problem solving rounds, 1 design round, and 1 behavior round.
+Depends on the target level, it may remove the design round for new grad, or replace some coding rounds
+with more design rounds to weigh heavier towards design ability assessment for more senior hires.
+Engineering manager or higher levels are not in scope of this discussion, the general principle probably
+applies. I have heard director level hire got asked coding question in his interview at a well-known tech
+giant, but briefly though.
+
+### consistent
+
+There is a good number of tech companies following this methodology. Suprisingly, this is not just for
+new grads, I have seen people with more than 10 years of experience been put into same process of doing
+this kind of CS fundamentals questions. The general motivation, I think and saw other people agree, is
+to enforce a consistent bar to ensure recruiting quality.  
 
 A few implications of no standardized interview process:
 
@@ -29,6 +47,26 @@ A few implications of no standardized interview process:
 3. Interview is subjective. Without agreed process, given freedom, individual can get as creative as he/she/? can get, on assumption that interviewers are talented people, which is true in tech industry. Creative is good thing, but that good in judging people in hiring.
 
 4. It cause people lost faith in company's engineering brand. Good expect company to only hiring good people, period.
+
+The list can go on and on. Having the preset bar consistently met ensures general fairness in hiring.
+
+### statistically beneficial
+
+The process consistently brings onboard good engineers to do the job - It is statistically true.
+
+The process is not perfect. Using standardized whiteboarding has been long criticized for not being useful in accessing one's real
+engineering ability. One example, a famout open source package manager author once interviewed with Google, and got rejected since
+he could not revert a binary tree (binary search tree ? - I don't quite recall the specifics) on whiteboard. While his open source
+package manager is widely used by Googlers. People argue that it is such an irony that the guy's past history of great work on the
+project was no proof to his engineering ability, and ignored by Google, and his failure of doing a simple whiteboard coding disqualified
+his candidacy with Google.
+
+The process does not promise to bring onboard all good engineers. There likely always be excellent outliers that does not fit in
+this model and got rejected as a result.
+
+It is arguably not a perfect process holistically, but it is arguably a good process for the company.
+
+Statistically, it works.
 
 ## outcome
 

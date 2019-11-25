@@ -83,7 +83,7 @@ companies follow this though, which is likely true, especially in start-ups wher
 
 ### Experience
 
-Interview at as many places as you can. Likely you will fail quite a few of them. After each interview, you can feel you subtly have a more mature view of interview process, and you can gradually identiy where you did well and where not. You will learn from them.
+Interview at as many places as you can. Likely, you will fail quite a few of them when you are new to such interviews. After each interview, you can feel you subtly have a more mature view of interview process, and you can gradually identiy where you did well and where not. You will learn from them.
 
 ### Resources that maybe useful
 

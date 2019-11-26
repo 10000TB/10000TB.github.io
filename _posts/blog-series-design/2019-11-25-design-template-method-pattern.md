@@ -65,7 +65,7 @@ class SomeSubClass(SomeUtilClass):
 
 From what it looks like, it is not clean. Due to python's namespacing rules, one has to reference the property from its super
 class to avoid compilation error. Taking a step back, we accept what it looks. This works well if we are adding a new setter
-for property property_a. However, if we are overriding an exising setter from parent class in subclass, the parent class's
+for property `property_a`. However, if we are overriding an exising setter from parent class in subclass, the parent class's
 setter's behavior will also be modified, which is probably not desired.
 
 ### Template method pattern for the win

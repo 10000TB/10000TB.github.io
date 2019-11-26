@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Template Method Pattern - Explained form a day-to-day work example"
+title: "Template Method Pattern - Explained from a day-to-day work example"
 categories: design
 tags: [design, pattern, python]
 ---

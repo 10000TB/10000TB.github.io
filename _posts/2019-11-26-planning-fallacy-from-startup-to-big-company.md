@@ -1,9 +1,11 @@
 ---
 layout: "post"
-title: "Planning fallacy - An engineer's point of view, from a start-up to a mature enterprise"
+title: "Planning fallacy - An engineer's point of view"
 categories: engineering
 tags: [planning, engineering, debate]
 ---
+
+> "Psychological biases can create cognitive delusion" -  A Mckinsey study
 
 When I was on the loo today at work, some printed material installed on the side stall brings up
 an interesting theory called "planning fallacy". What it says, in a nutshell, is that people tend

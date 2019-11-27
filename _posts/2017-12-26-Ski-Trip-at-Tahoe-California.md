@@ -2,7 +2,7 @@
 layout: "post"
 title: "Dec 2017 Ski Trip at Tahoe, California"
 comments: true
-categories: Ski
+categories: ski
 tags: [ski, tahoe]
 image: tahoe_ski_down_hill_screenshot.png
 ---

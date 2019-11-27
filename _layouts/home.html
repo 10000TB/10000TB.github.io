@@ -2,20 +2,17 @@
 layout: default
 title: Home
 ---
-
-<div style="color:rgba(0,0,0,0.3); padding: 4px 4px; margin-bottom:5px;"><img src="https://cdn2.iconfinder.com/data/icons/interface-icons-line/53/Danger_Sign-512.png" style="width:20px;position:relative;float:left;margin-top:1px;"> &nbsp; Opinions are my own and not the views of my employer or affiliated organizations</div>
-<div style="color:rgba(0,0,0,0.3); padding: 4px 4px; margin-bottom:25px;"><img src="https://cdn2.iconfinder.com/data/icons/interface-icons-line/53/Danger_Sign-512.png" style="width:20px;position:relative;float:left;margin-top:1px;"> &nbsp; All content on this site should be strictly regarded as an opinion only, with no warranty given nor implied against error or omission. However, information security is taken very seriously, should there any PII (Personal Identifiable Information) or data security violation, send an email to the <a href="http://10000tb.org/pages/about.html">author</a> with URGENT in title for resolution, allowing up to 24 hours for a reply</div>
-
-<div>
-    <span style="color:white; background-color: black;padding: 2px 2px;">Pinned</span><br/><br/>
+<div style="font-family: 'Baskervville', serif;">
+    <br/>
+    <span style="color:white; background-color: black;padding: 2px 2px; font-family: 'Lobster', cursive;">Pinned</span><br/><br/>
     &nbsp;&nbsp;&nbsp;<a href="{{ site.url }}/tech/My-2-cents-on-tech-interviews.html"> My 2 cents on tech interviews in a non-holistic view - methodologies, outcome, candidate experience, and tips </a><br/><br/>
     &nbsp;&nbsp;&nbsp;<a href="{{ site.url }}/python/blog-series-python-A-Curated-List-Those-Python-How-To-You-Search-Frequently-in-Your-Daily-Programming.html">A curated list: those python How-Tos we search frequently in our daily programming</a><br/><br/>
     <br/>
-    <span style="color:white; background-color: black;padding: 2px 2px;">All</span><br/>
+    <span style="color:white; background-color: black;padding: 2px 2px;font-family: 'Lobster', cursive; ">All</span><br/>
 </div>
 
 {% for post in paginator.posts %}
-<article>
+<article style="font-family: 'Baskervville', serif;">
   <a href="{{ site.github.url }}{{ post.url }}" style="text-decoration: none;">
     <div class="featured-posts" style="height:60px;width:100%;">
       <div style="padding:0px 5px;display: inline-block;max-height:40px; width:auto;font-weight: bold; background-color: rgba(255,255,255,1);padding:10px 0px; color: rgba(0, 51, 204, 0.8);"><span style="padding:0px 5px;font-weight:bold;">{{ post.title }}</span></div><br/>

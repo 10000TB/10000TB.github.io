@@ -116,7 +116,7 @@ companies follow this though, which is likely true, especially in start-ups wher
 * You can comfortablely make a point. Preferably, you are articulate when you get across your point.
 * You are not wordy. Preferably, you talk just right amount of time during each interaction, no more, no less, just right amount.
 * You don't have to be humorous. But, if you can crack a joke, pls do so. Subconsciously, people favor and want to work with those that they like.
-* You are not an asshole. Preferably, you don't argue everytime over anything just to prove yourself and your "I am smart" ass ego. Ideally, you are sympathetic, you listen carefully for what others have to say, and recognize the fact that you don't know sth when that is true.
+* You are not an asshole. Preferably, you don't argue everytime over anything just to prove yourself. Ideally, you are emmpathetic, you listen carefully for what others have to say, and recognize the fact that you don't know sth when that is true.
 * You communicate. Preferably, you drive the process, you ASK before jumping in.
 
 ### Experience

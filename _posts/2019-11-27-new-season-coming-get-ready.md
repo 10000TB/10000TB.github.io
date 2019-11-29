@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "New season is around the corner, and mountains are calling - 新老司机赶紧上车 ?"
+title: "New season is around the corner, and mountains are calling"
 categories: ski
 tags: [newseason, epic, ski, trip, planning]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "老赵厨房 送别 迪一"
+title: "老赵厨房 送别 实习生"
 comments: true
 categories: gourmet
 tags: [gourmet, write]
@@ -10,7 +10,7 @@ image: Chef-Zhao-Kitchen-Palo-Alto-exterior-decor.jpg
 <br/>
 <br/>
 
-ThoughtSpot暑期实习生迪一期满, 周末将返回波士顿继续东北大学的硕士学习。
+ThoughtSpot暑期实习生A期满, 周末将返回波士顿继续某知名院校的硕士学习。
 在职的新老司机约定在Chef Zhao Kitchen为迪一践行。这将是我被打趣为美食博主后的第一次加冕之餐，然而我并没预料到接下来发生的一切。
 
 我本来计划四点过半便出发的，但不曾想到直属老板拖着开会硬是超时了一个多小时，

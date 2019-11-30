@@ -9,22 +9,22 @@ image: tech-companies-image.jpg
 
 I came across an article of a candidate's experience with interviewing with Google. The impression I got from his words is that he's got great experience and he will still feel happy and lucky to have interviewed with google even he got rejected eventually.
 
-His experience sheds light on the general positive recruiting experience from Google. I have seen similar testimonials before here and there. I myself echo that from my experience. I then burst with lot of thoughts around tech interviews. I have been on both sides of interviews and I have done decent amount of interviews on each side. It maybe worth putting down a few points.
+His experience sheds some light on the general positive recruiting experience by Google. I have seen similar testimonials before here and there. I myself echo to that from my experience. I then burst out thoughts around tech interviews, which is kinda an overdue topic I wanted to blog about. In addition, I have been on both sides of interviews and I have done decent amount of interviews on each side. I might as well put down a few points for whatever is worth.
 
->Disclaimer - In the light of how things - all things - generally work, interview is broad topic. Below is a brief (read lazy) summary of whats on top of my mind on this subject. In particular, this is around tech interviews. More narrowly, it is around tech roles like SWE (Software Engineer), data engineers, data science, or similar that asks for coding in interviews.
+> Disclaimer: In the light of how things - all things - generally work, interview is a broad topic. Below is a brief (reads lazy) summary of what is on top of my mind on this subject. In particular, this is around tech interviews. More narrowly, it is around tech roles like SWE (Software Engineer), data engineers, data science, or similar roles that ask for coding.
 
 ## methodologies
 
 ### standardized
 
-Standardized interviews of algorithmic questions.
+Standardized interviews of algorithmic questions is trending.
 
 Typically, it starts with a phone screening, one engineer shares an online coding screen with
 candidate, where a candidate is asked to write code. The candidate will be moved on to onsite if
 he/she/? did well, and onsite takes forms of in-person whiteboard coding, system design, and sometimes
-behavior. In principle, a full onsite takes combo of these 3 types of interviews, and often weighed
-towards one particular type for each level of hire needs. Pratically, a SWE interview, say an onsite
-of 5 rounds, can consist of 4 algorithmic problem solving rounds, 1 design round, and 1 behavior round.
+behaviorial. In principle, a full onsite takes a combo of these 3 types of interviews, and often weighed
+towards one particular type for different level and kind of hire needs. Pratically, a SWE interview, say an onsite
+of 5 rounds, can consist of 4 algorithmic problem solving rounds, 1 design round, or 1 behavior round.
 Depends on the target level, it may remove the design round for new grad, or replace some coding rounds
 with more design rounds to weigh heavier towards design ability assessment for more senior hires.
 Engineering manager or higher levels are not in scope of this discussion, the general principle probably
@@ -35,7 +35,7 @@ giant, but briefly though.
 
 There is a good number of tech companies following this methodology. Suprisingly, this is not just for
 new grads, I have seen people with more than 10 years of experience been put into same process of doing
-this kind of CS fundamentals questions. The general motivation, I think and saw other people agree, is
+this kind of fundamentals related questions. The general motivation, I think and saw other people agree, is
 to enforce a consistent bar to ensure recruiting quality.  
 
 A few implications of no standardized interview process:
@@ -116,7 +116,7 @@ companies follow this though, which is likely true, especially in start-ups wher
 * You can comfortablely make a point. Preferably, you are articulate when you get across your point.
 * You are not wordy. Preferably, you talk just right amount of time during each interaction, no more, no less, just right amount.
 * You don't have to be humorous. But, if you can crack a joke, pls do so. Subconsciously, people favor and want to work with those that they like.
-* You are not an asshole. Preferably, you don't argue everytime over anything just to prove yourself. Ideally, you are emmpathetic, you listen carefully for what others have to say, and recognize the fact that you don't know sth when that is true.
+* You are not an asshole. Preferably, you don't argue everytime over everything just to prove yourself. Ideally, you are emmpathetic, you listen carefully for what others have to say, and recognize the fact that you don't know sth when that is true.
 * You communicate. Preferably, you drive the process, you ASK before jumping in.
 
 ### Experience

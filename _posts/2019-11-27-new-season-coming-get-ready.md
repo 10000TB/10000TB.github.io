@@ -47,7 +47,7 @@ weather, traffic, etc are unneglectable, especially when you are planning for a 
 
 ### East Coast
 
-* I have not personally skied there - but I have learnt that there are many less than good ski resorts ~3 hours drive from new york city, and there way better good quality resorts by Vemount, which is ~ 5 hours drive from new york city.
+* I have not personally skied there - but I have learnt that there are many less than good ski resorts ~3 hours drive from new york city, and there are way better good quality resorts by Vermont, which is ~ 5 hours drive from new york city.
 
 
 ## Details & Reviews

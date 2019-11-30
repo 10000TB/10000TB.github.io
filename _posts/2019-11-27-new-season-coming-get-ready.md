@@ -20,7 +20,37 @@ putting together a summary of what past experiences are like for each resort, an
 resort has to offer for the new season. Besides, other logistics like housing options, transportatio,
 weather, traffic, etc are unneglectable, especially when you are planning for a large group of people.
 
-## Options
+## TL;DR
+
+### California
+
+* Northstar (Epic, Good overall, suitable for all types of groups)
+* Heavenly (Epic, Good overall, more touring places - right by south lake Tahoe city)
+* Kirkwood (Epic, Good overall, more for hardcore skier/snowboarders)
+* Boreal (?, ?, Woodward Tahoe - the rare trampline place is nearby)
+* Squaw valley (IKON, Good overall - actually better than its Tahoe peers, once an olympic games host place - the slopes are more expansive)
+
+### Utah
+
+* Park City Mountain Resort
+* ...
+
+### Colorado
+
+* Vail (Epic, Very good, The famout resort - very expansive slopes - where Epic pass originated)
+* Keystone (Epic?, very good, features night skiiing)
+* Breckenridge (Epic, good overall, been there once - no much impression)
+* Winter Park ski resort (IKON, very good, very expansive slopes - facilities are good - suitable for all groups of people)
+* There are many other good similar-sized resorts and smaller resorts available - it is the mountainous colorado !
+    * loveland ski area
+    * ? (I recall there is a place called like `aparahoe basil` - need to double check)
+
+### East Coast
+
+* I have not personally skied there - but I have learnt that there are many less than good ski resorts ~3 hours drive from new york city, and there way better good quality resorts by Vemount, which is ~ 5 hours drive from new york city.
+
+
+## Details & Reviews
 
 ### California
 
@@ -152,8 +182,11 @@ Here is a video of kirkwood
 * There is often bad traffic on the road on good skiing days. In addition, the CA-88 often gets closed due to heavy snow. You end up having to detour, usually that means you have to drive all the way up and take I-80 back to bay area.
 * Not many affordable housing options for frequent skiers/snowboarders.
   
-  
-  
+
+
+`TODO(10000tb) add reviews for the rest of ski resorts mentioned in TL;DR section`
+
+
 Opinions are mine, choices are yours. Those are my 2 cents. As you ski/snowboard more in these places, you probably develop your own preferences. Regardlessly, hope this post help!
 
 

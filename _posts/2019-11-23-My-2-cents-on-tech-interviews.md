@@ -110,7 +110,7 @@ companies follow this though, which is likely true, especially in start-ups wher
 
 ### Communication  
 
-(During interview  **VERY IMPORTANT**)
+(During interview)
 * You don't need to please interviewers. Preferably, you stand your ground and proactively clarify it when there is a miscommunication.
 * You know what you are talking about. Preferably, you are assertive and persuasive.
 * You can comfortablely make a point. Preferably, you are articulate when you get across your point.

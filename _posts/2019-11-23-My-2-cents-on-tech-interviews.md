@@ -100,7 +100,7 @@ My experience tells me that you will likely succeed in those interviews if you:
 * You are VERY familiar with CS fundamentals - well-known algorithms, frequently used data structures.
 * Close to bug-free coding ability on shared online coding platform & whiteboard.
 
-To achieve those, I have seen different people approach it differently. Some praticed solving a lot - I mean a lot - of those algorithmic problems. Some other comes with phD background, and are very good at them in general, and they simply pratice small amount of such problems for keep their "手感". I have also seen people spend thousands of dollars to take those 3rd party algorithm classes designed specifically for tech interviews.
+To achieve those, I have seen different people approach it differently. Some praticed solving a lot - I mean a lot - of those algorithmic problems. Some other comes with phD background, and are very good at them in general, and they simply pratice small amount of such problems for keep their "hot hands". I have also seen people spend thousands of dollars to take those 3rd party algorithm classes designed specifically for tech interviews.
 
 (Design part)
 * Speak what you know - Preferably, you can drive the process, persuade people with solid points, bring a consensus on to the table.
@@ -110,7 +110,7 @@ companies follow this though, which is likely true, especially in start-ups wher
 
 ### Communication  
 
-(During interview)
+(During interview ** VERY IMPORTANT
 * You don't need to please interviewers. Preferably, you stand your ground and proactively clarify it when there is a miscommunication.
 * You know what you are talking about. Preferably, you are assertive and persuasive.
 * You can comfortablely make a point. Preferably, you are articulate when you get across your point.

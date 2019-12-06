@@ -55,7 +55,7 @@ The list can go on and on. Having the preset bar consistently met ensures genera
 The process consistently brings onboard good engineers to do the job - It is statistically true.
 
 The process is not perfect. Using standardized whiteboarding has been long criticized for not being useful in accessing one's real
-engineering ability. One example, a famout open source package manager author once interviewed with Google, and got rejected since
+engineering ability. One example, a famous open source package manager (Homebrew) author once interviewed with Google, and got rejected since
 he could not revert a binary tree (binary search tree ? - I don't quite recall the specifics) on whiteboard. While his open source
 package manager is widely used by Googlers. People argue that it is such an irony that the guy's past history of great work on the
 project was no proof to his engineering ability, and ignored by Google, and his failure of doing a simple whiteboard coding disqualified

@@ -118,6 +118,9 @@ companies follow this though, which is likely true, especially in start-ups wher
 * You don't have to be humorous. But, if you can crack a joke, pls do so. Subconsciously, people favor and want to work with those that they like.
 * You are not an asshole. Preferably, you don't argue everytime over everything just to prove yourself. Ideally, you are emmpathetic, you listen carefully for what others have to say, and recognize the fact that you don't know sth when that is true.
 * You communicate. Preferably, you drive the process, you ASK before jumping in.
+* You reconcile. There are very likely heated debate and argument moments in interview and real life work, you can tell that you are crossing the line and making others uncomfortable by over arguing over a small point that is not worth it. Preferably, you are good at resolving an expected conflict.
+* Depends on the level where you are at, it is good that you demonstarte that you are trustworthy. A defined task can be given to and delivered by you. Further, an ambiguous problem can be given to you and you drive the process to understand the problem, make specs clear to the known requirements and collect good requirements for that is not scoped but necessary to solve the problem. Further, others find it instrumental to talk to you, respect you naturally, and generally agree that you are a personal they can learn from and want to work with.
+
 
 ### Experience
 

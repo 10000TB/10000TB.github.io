@@ -17,15 +17,15 @@ title: Home
 {% for post in paginator.posts %}
 <article style="font-family: 'Baskervville', serif;">
   <a href="{{ site.github.url }}{{ post.url }}" style="text-decoration: none;">
-    <div class="featured-posts" style="height:60px;width:100%;">
+    <div class="featured-posts" style="height:80px;width:100%; overflow: hidden;">
       <div style="padding:0px 5px;display: inline-block;max-height:40px; width:auto;font-weight: bold; background-color: rgba(255,255,255,1);padding:10px 0px; color: rgba(0, 51, 204, 0.8);"><span style="padding:0px 5px;font-weight:900;">{{ post.title }}</span></div><br/>
-      <div style="padding:0px 5px;display: inline-block;max-height:40px; width:auto;font-weight: bold; background-color: ra(255,255,255,1);padding:0px 0px; color: rgba(0, 51, 204, 0.4);top:5px;"><span style="padding:0px 5px;font-weight:bold;color:rgba(0,0,0,0.6);">{{ post.date | date_to_long_string }}</span> &nbsp;&nbsp; 
+      <div style="padding:0px 5px;display: block;min-height:40px; width:auto;font-weight: bold; background-color: ra(255,255,255,1);padding:0px 0px; color: rgba(0, 51, 204, 0.4);top:5px;"><span style="padding:0px 5px;font-weight:bold;color:rgba(0,0,0,0.6);position:relative; float:left;">{{ post.date | date_to_long_string }}</span> &nbsp;&nbsp; 
           {% if post.time  %}
-          <span style="padding:0px 5px;font-weight:bold; color:rgba(0,0,0,0.7);">{{ post.time }} mins read</span>
+          <span style="padding:0px 5px;font-weight:bold; color:rgba(0,0,0,0.7); position:relative; float:left;">{{ post.time }} mins read</span>
           {% endif %}
           {% for tag in post.tags  %}
           &nbsp;
-          <span style="padding-bottom: 3px; padding-left:7px;padding-right:4px;;font-weight:bold; color:rgba(0,0,0,0.7);background-color:#ff9999 ;color:white;font-weight:bold;border-radius:5px;">{{ tag }}&nbsp;</span>
+          <span class="hide-tags" style="padding-bottom: 3px; padding-left:7px;padding-right:4px;;font-weight:bold; color:rgba(0,0,0,0.7);background-color:#ff9999 ;color:white;font-weight:bold;border-radius:5px;">{{ tag }}&nbsp;</span>
           {% endfor %}
       </div>
     </div>

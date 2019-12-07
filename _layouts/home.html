@@ -23,6 +23,10 @@ title: Home
           {% if post.time  %}
           <span style="padding:0px 5px;font-weight:bold; color:rgba(0,0,0,0.7);">{{ post.time }} mins read</span>
           {% endif %}
+          {% for tag in post.tags  %}
+          &nbsp;
+          <span style="padding:0px 5px;font-weight:bold; color:rgba(0,0,0,0.7);background-color:#ff9999 ;color:white;font-weight:bold;border-radius:3px;">{{ tag }}&nbsp;</span>
+          {% endfor %}
       </div>
     </div>
   </a>

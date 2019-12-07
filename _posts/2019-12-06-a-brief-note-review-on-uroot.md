@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Random notes to my experience with u-root - \"A fully Go userland\""
+title: "Random notes to my experience with \"u-root\" - \"A fully Go userland with Linux bootloaders\""
 categories: engineering
 tags: [go, userland, engineering]
 ---

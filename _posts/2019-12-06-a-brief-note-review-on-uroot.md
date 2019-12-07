@@ -5,6 +5,9 @@ categories: engineering
 tags: [go, userland, engineering]
 ---
 
+![go mascot](https://blog.golang.org/gopher/header.jpg)
+(image credit: [The Go Blog - The Go Gopher](https://blog.golang.org/gopher))
+
 I accidentally had a chance to work with a fully go userland - `uroot` ( [github](https://github.com/u-root/u-root), [official website](http://u-root.tk/) ), not long ago. I am not sure if I will work further in the area that interacts with it closely. Out of the fear of losing value of all the time I have invested in the area, it occur to me that I might just write down my experience with it, put together a summary, and check point what I have learnt at this right moment when my memories about it are fresh. Maybe it will be useful for future myself in case I come back to the area around uroot or linux boot, or for other people reading this post.
 
 ## What is uroot ?

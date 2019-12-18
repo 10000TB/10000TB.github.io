@@ -26,9 +26,12 @@ layout: default
   </span>
 
   {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-    </div>
+    {% if page.hidepostimage %}
+    {% else %}
+      <div class="featured-image">
+        <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      </div>
+    {% endif %}
   {% endif %}
 
   <article>

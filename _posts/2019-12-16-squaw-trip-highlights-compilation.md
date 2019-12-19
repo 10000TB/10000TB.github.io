@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "12152019 Squaw and Alpine Meadows ski trip highlights"
+title: "Squaw Valley ski trip highlights"
 comments: true
 categories: ski
 tags: [ski, gopro, highlights, lastyearofdecade]

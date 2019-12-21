@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Squaw Valley ski trip highlights"
+published: false
 comments: true
 categories: ski
 tags: [ski, gopro, highlights, lastyearofdecade]
